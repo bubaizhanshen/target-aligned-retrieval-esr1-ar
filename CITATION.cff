@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or processed data release, please cite the repository release below."
+title: "Target-Aligned Retrieval for ESR1/AR Environmental Binding Prioritization"
+type: software
+version: 0.1.1
+date-released: 2026-05-18
+repository-code: "https://github.com/bubaizhanshen/target-aligned-retrieval-esr1-ar"
+url: "https://github.com/bubaizhanshen/target-aligned-retrieval-esr1-ar/releases/tag/v0.1.1"
+abstract: >-
+  Code, processed data, configuration files, and result tables for
+  target-aligned retrieval on ESR1/AR direct-binding prioritization of
+  environmental suspect chemicals.
+license: MIT
+authors:
+  - family-names: "bubaizhanshen"
+preferred-citation:
+  type: software
+  title: "Target-Aligned Retrieval for ESR1/AR Environmental Binding Prioritization"
+  version: 0.1.1
+  date-released: 2026-05-18
+  repository-code: "https://github.com/bubaizhanshen/target-aligned-retrieval-esr1-ar"
+  url: "https://github.com/bubaizhanshen/target-aligned-retrieval-esr1-ar/releases/tag/v0.1.1"

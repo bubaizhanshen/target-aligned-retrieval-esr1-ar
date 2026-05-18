@@ -33,6 +33,9 @@ It intentionally excludes manuscript files, figures, plotting scripts, and raw b
 - `requirements.txt`
   Minimal Python package requirements tracked in the working environment.
 
+- `LICENSE` and `CITATION.cff`
+  Reuse and citation metadata for the public code-and-data release.
+
 ## Included Processed Data
 
 - `data/ctx_target_mie_er_ahr_ar/`
