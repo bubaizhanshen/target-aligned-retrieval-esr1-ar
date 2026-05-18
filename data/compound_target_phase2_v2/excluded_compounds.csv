@@ -1,0 +1,581 @@
+compound_id,dtxsid,name,smiles_final,qsar_ready_smiles,ms_ready_smiles,smiles_ctx,exclusion_reason
+DTXSID001339559,DTXSID001339559,AFFF Solberg F2(0.5X) + F3(0.5X),,,,,missing_smiles_final
+DTXSID001351795,DTXSID001351795,1-Phenyl-3-methyl-5-pyrazolone; Propylparaben (33:67),,,,,missing_smiles_final
+DTXSID001351802,DTXSID001351802,2-(Phenylmethylene)octanal; Bisphenol A (50:50),,,,,missing_smiles_final
+DTXSID0020101,DTXSID0020101,Aroclor 1260,,,,,missing_smiles_final
+DTXSID0021175,DTXSID0021175,Polysorbate 80,,,,,missing_smiles_final
+DTXSID0027729,DTXSID0027729,Isomethyltetrahydrophthalic anhydride,,,,,missing_smiles_final
+DTXSID0028323,DTXSID0028323,"Alcohols, C16-18",,,,,missing_smiles_final
+DTXSID0028666,DTXSID0028666,"1,2-Benzenedicarboxylic acid, di-C9-11-branched alkyl esters, C10-rich",,,,,missing_smiles_final
+DTXSID0029214,DTXSID0029214,Methylionone,,,,,missing_smiles_final
+DTXSID0029474,DTXSID0029474,"Oxirane, 2-[(C8-10-alkyloxy)methyl] derivatives",,,,,missing_smiles_final
+DTXSID0029848,DTXSID0029848,"Acetic acid, C8-10-branched alkyl esters, C9-rich",,,,,missing_smiles_final
+DTXSID0034566,DTXSID0034566,Emamectin benzoate,,,,,missing_smiles_final
+DTXSID0044317,DTXSID0044317,8-Hydroxyquinoline-5-sulfonic acid hydrate (1:x),,,,,missing_smiles_final
+DTXSID0044783,DTXSID0044783,"2-Silylpropyl-urea, Si-(ethoxy and methoxy) derivs",,,,,missing_smiles_final
+DTXSID0037235,DTXSID0037235,Gentamicin sulfate,,,,,missing_smiles_final
+DTXSID0041721,DTXSID0041721,C.I. Acid Yellow 3 disodium salt,,,,,missing_smiles_final
+DTXSID0042327,DTXSID0042327,Dipropylene glycol dimethyl ether,,,,,missing_smiles_final
+DTXSID0045969,DTXSID0045969,Enoxaparin sodium,,,,,missing_smiles_final
+DTXSID0047242,DTXSID0047242,"2,4-Diaminoanisole sulfate hydrate (1:1:x)",,,,,missing_smiles_final
+DTXSID0048630,DTXSID0048630,Sevelamer hydrochloride,,,,,missing_smiles_final
+DTXSID0049020,DTXSID0049020,Poly-L-ornithine hydrochloride,,,,,missing_smiles_final
+DTXSID0049446,DTXSID0049446,NTP Mix58 CT1 62-GP,,,,,missing_smiles_final
+DTXSID0049448,DTXSID0049448,NTP Mix60 CT1 62-GP,,,,,missing_smiles_final
+DTXSID0049490,DTXSID0049490,NTP Mix38 CT1 2-EQP,,,,,missing_smiles_final
+DTXSID0049492,DTXSID0049492,NTP Mix35 CT1 1-EQP,,,,,missing_smiles_final
+DTXSID0049494,DTXSID0049494,NTP Mix1 AR1 4-EQP,,,,,missing_smiles_final
+DTXSID0049496,DTXSID0049496,NTP Mix3 AR1 8-EQP,,,,,missing_smiles_final
+DTXSID0049498,DTXSID0049498,NTP Mix5 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID0049521,DTXSID0049521,NTP Mix101 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID0049523,DTXSID0049523,NTP Mix103 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID0049525,DTXSID0049525,NTP Mix105 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID0049527,DTXSID0049527,NTP Mix107 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID0049529,DTXSID0049529,NTP Mix109 ER1 10-GP,,,,,missing_smiles_final
+DTXSID0052910,DTXSID0052910,DSH spr 2012_Prox,,,,,missing_smiles_final
+DTXSID0052912,DTXSID0052912,DSH spr 2012_SMTP,,,,,missing_smiles_final
+DTXSID0057910,DTXSID0057910,MED_IVEDCMix_4EnvC,,,,,missing_smiles_final
+DTXSID0057912,DTXSID0057912,MED_EnvEDCMix_9EnvC,,,,,missing_smiles_final
+DTXSID0057914,DTXSID0057914,MED_ChemSTMix_5EnvC,,,,,missing_smiles_final
+DTXSID0057916,DTXSID0057916,MED_ERAgonMix_4EQC,,,,,missing_smiles_final
+DTXSID00858881,DTXSID00858881,EPAMED_Water_Set2-15,,,,,missing_smiles_final
+DTXSID00858886,DTXSID00858886,EPAMED_Water_Set2-20,,,,,missing_smiles_final
+DTXSID00858902,DTXSID00858902,EPAMED_Water_Set2-36,,,,,missing_smiles_final
+DTXSID00858907,DTXSID00858907,EPAMED_Water_Set2-41,,,,,missing_smiles_final
+DTXSID00858922,DTXSID00858922,EPAMED_Water_Set2-56,,,,,missing_smiles_final
+DTXSID00872709,DTXSID00872709,EPAMED_Water_Set3-4,,,,,missing_smiles_final
+DTXSID00872724,DTXSID00872724,EPAMED_Water_Set3-19,,,,,missing_smiles_final
+DTXSID00872729,DTXSID00872729,EPAMED_Water_Set3-24,,,,,missing_smiles_final
+DTXSID00872744,DTXSID00872744,EPAMED_Water_Set3-39,,,,,missing_smiles_final
+DTXSID00872749,DTXSID00872749,EPAMED_Water_Set3-44,,,,,missing_smiles_final
+DTXSID00903825,DTXSID00903825,EPAMED_Water_Set4-1,,,,,missing_smiles_final
+DTXSID00903840,DTXSID00903840,EPAMED_Water_Set4-16,,,,,missing_smiles_final
+DTXSID00903845,DTXSID00903845,EPAMED_Water_Set4-21,,,,,missing_smiles_final
+DTXSID00903860,DTXSID00903860,EPAMED_Water_Set5-1,,,,,missing_smiles_final
+DTXSID00903865,DTXSID00903865,EPAMED_Water_Set5-6,,,,,missing_smiles_final
+DTXSID00903880,DTXSID00903880,EPAMED_Water_Set5-21,,,,,missing_smiles_final
+DTXSID00903885,DTXSID00903885,EPAMED_Water_Set5-26,,,,,missing_smiles_final
+DTXSID101351786,DTXSID101351786,Propylparaben; Butylated hydroxytoluene (33:67),,,,,missing_smiles_final
+DTXSID101351798,DTXSID101351798,Propylparaben; Bisphenol A (50:50),,,,,missing_smiles_final
+DTXSID101351805,DTXSID101351805,2-(Phenylmethylene)octanal; Bexarotene (50:50),,,,,missing_smiles_final
+DTXSID1027394,DTXSID1027394,Naphthenic acids,,,,,missing_smiles_final
+DTXSID1027396,DTXSID1027396,Anhydrosorbitol stearate,,,,,missing_smiles_final
+DTXSID1027841,DTXSID1027841,Isooctyl 2-mercaptoacetate,,,,,missing_smiles_final
+DTXSID1027891,DTXSID1027891,Calcium dodecylbenzene sulfonate,,,,,missing_smiles_final
+DTXSID1045900,DTXSID1045900,Mepartricin,,,,,missing_smiles_final
+DTXSID1046978,DTXSID1046978,C12-14-Alkyldimethyl betaines,,,,,missing_smiles_final
+DTXSID1047027,DTXSID1047027,Ditridecyl phthalate (mixture of branched chain isomers),,,,,missing_smiles_final
+DTXSID1047364,DTXSID1047364,SSR 103800,,,,,missing_smiles_final
+DTXSID1047526,DTXSID1047526,C10-21 alkanesulfonic acids phenyl esters,,,,,missing_smiles_final
+DTXSID1047657,DTXSID1047657,"1,3-Nonanediol monoacetate",,,,,missing_smiles_final
+DTXSID1049481,DTXSID1049481,NTP Mix44 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID1049483,DTXSID1049483,NTP Mix36 CT1 2-EQP,,,,,missing_smiles_final
+DTXSID1049485,DTXSID1049485,NTP Mix46 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID1049487,DTXSID1049487,NTP Mix47 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID1049489,DTXSID1049489,NTP Mix49 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID1049510,DTXSID1049510,NTP Mix17 AR1 8-GP,,,,,missing_smiles_final
+DTXSID1049512,DTXSID1049512,NTP Mix19 AR1 8-GP,,,,,missing_smiles_final
+DTXSID1049514,DTXSID1049514,NTP Mix118 ER1 5-EQP,,,,,missing_smiles_final
+DTXSID1049516,DTXSID1049516,NTP Mix96 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID1049518,DTXSID1049518,NTP Mix99 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID1049560,DTXSID1049560,NTP Mix29 AR2 5-EQP,,,,,missing_smiles_final
+DTXSID1049562,DTXSID1049562,NTP Mix30 AR2 7-EQP,,,,,missing_smiles_final
+DTXSID1051808,DTXSID1051808,C.I. Basic Green 4 oxalate (1:x),,,,,missing_smiles_final
+DTXSID1052901,DTXSID1052901,DS-WWTP,,,,,missing_smiles_final
+DTXSID1052903,DTXSID1052903,Extraction blank,,,,,missing_smiles_final
+DTXSID1052905,DTXSID1052905,Sappi 2013_Proximal,,,,,missing_smiles_final
+DTXSID1052907,DTXSID1052907,DSH fall 2012_Dist,,,,,missing_smiles_final
+DTXSID1052909,DTXSID1052909,DSH fall 2012_Erie,,,,,missing_smiles_final
+DTXSID1057907,DTXSID1057907,MED_ChemMix_7EQC,,,,,missing_smiles_final
+DTXSID1057909,DTXSID1057909,MED_IVEDCMix_4EQC,,,,,missing_smiles_final
+DTXSID10858872,DTXSID10858872,EPAMED_Water_Set2-6,,,,,missing_smiles_final
+DTXSID10858877,DTXSID10858877,EPAMED_Water_Set2-11,,,,,missing_smiles_final
+DTXSID10858892,DTXSID10858892,EPAMED_Water_Set2-26,,,,,missing_smiles_final
+DTXSID10858897,DTXSID10858897,EPAMED_Water_Set2-31,,,,,missing_smiles_final
+DTXSID10858913,DTXSID10858913,EPAMED_Water_Set2-47,,,,,missing_smiles_final
+DTXSID10858918,DTXSID10858918,EPAMED_Water_Set2-52,,,,,missing_smiles_final
+DTXSID10872710,DTXSID10872710,EPAMED_Water_Set3-5,,,,,missing_smiles_final
+DTXSID10872715,DTXSID10872715,EPAMED_Water_Set3-10,,,,,missing_smiles_final
+DTXSID10872730,DTXSID10872730,EPAMED_Water_Set3-25,,,,,missing_smiles_final
+DTXSID10872735,DTXSID10872735,EPAMED_Water_Set3-30,,,,,missing_smiles_final
+DTXSID10872750,DTXSID10872750,EPAMED_Water_Set3-45,,,,,missing_smiles_final
+DTXSID10872755,DTXSID10872755,EPAMED_Water_Set3-50,,,,,missing_smiles_final
+DTXSID10903831,DTXSID10903831,EPAMED_Water_Set4-7,,,,,missing_smiles_final
+DTXSID10903836,DTXSID10903836,EPAMED_Water_Set4-12,,,,,missing_smiles_final
+DTXSID10903851,DTXSID10903851,EPAMED_Water_Set4-27,,,,,missing_smiles_final
+DTXSID10903856,DTXSID10903856,EPAMED_Water_Set4-42,,,,,missing_smiles_final
+DTXSID10903871,DTXSID10903871,EPAMED_Water_Set5-12,,,,,missing_smiles_final
+DTXSID10903876,DTXSID10903876,EPAMED_Water_Set5-17,,,,,missing_smiles_final
+DTXSID10903891,DTXSID10903891,EPAMED_Water_Set5-32,,,,,missing_smiles_final
+DTXSID10903896,DTXSID10903896,EPAMED_Water_Set5-37,,,,,missing_smiles_final
+DTXSID201339555,DTXSID201339555,AFFF Solberg F3 (1X),,,,,missing_smiles_final
+DTXSID201339593,DTXSID201339593,AFFF Solberg F1 blank,,,,,missing_smiles_final
+DTXSID201351484,DTXSID201351484,Propylparaben; 2-(Phenylmethylene)octanal (33:67),,,,,missing_smiles_final
+DTXSID201351789,DTXSID201351789,2-(Phenylmethylene)octanal; Butylated hydroxytoluene (67:33),,,,,missing_smiles_final
+DTXSID201351791,DTXSID201351791,Citric acid; Butylated hydroxytoluene (67:33),,,,,missing_smiles_final
+DTXSID1047730,DTXSID1047730,Orange terpenes,,,,,missing_smiles_final
+DTXSID1048122,DTXSID1048122,Benzyl-C8-18-alkyldimethylammonium chlorides,,,,,missing_smiles_final
+DTXSID1048702,DTXSID1048702,Diisopropylaminomethyl-polystyrene,,,,,missing_smiles_final
+DTXSID2024824,DTXSID2024824,"Chlorinated paraffins (C12, 60% chlorine)",,,,,missing_smiles_final
+DTXSID2026076,DTXSID2026076,Tannic acid,,,,,missing_smiles_final
+DTXSID2027963,DTXSID2027963,Isooctadecanoic acid,,,,,missing_smiles_final
+DTXSID2029329,DTXSID2029329,Tripropylene glycol monomethyl ether,,,,,missing_smiles_final
+DTXSID2030857,DTXSID2030857,Black cohosh,,,,,missing_smiles_final
+DTXSID2031532,DTXSID2031532,Lime oil,,,,,missing_smiles_final
+DTXSID2041703,DTXSID2041703,Butylnaphthalenesulfonic acid sodium salt,,,,,missing_smiles_final
+DTXSID2045604,DTXSID2045604,Verteporfin,,,,,missing_smiles_final
+DTXSID2045735,DTXSID2045735,Cochineal,,,,,missing_smiles_final
+DTXSID2046414,DTXSID2046414,Muromonab-CD3,,,,,missing_smiles_final
+DTXSID2047486,DTXSID2047486,Methoxybenzyl alcohol,,,,,missing_smiles_final
+DTXSID2047517,DTXSID2047517,"Hexanedioic acid, di-C7-9-branched and linear alkyl esters",,,,,missing_smiles_final
+DTXSID2047696,DTXSID2047696,Cremophor EL,,,,,missing_smiles_final
+DTXSID2047721,DTXSID2047721,Petitgrain oil,,,,,missing_smiles_final
+DTXSID2047800,DTXSID2047800,Bleomycin sulfate,,,,,missing_smiles_final
+DTXSID2049470,DTXSID2049470,NTP Mix52 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID2049472,DTXSID2049472,NTP Mix53 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID2049474,DTXSID2049474,NTP Mix55 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID2049476,DTXSID2049476,NTP Mix40 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID2049478,DTXSID2049478,NTP Mix42 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID2049501,DTXSID2049501,NTP Mix8 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID2049503,DTXSID2049503,NTP Mix10 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID2049505,DTXSID2049505,NTP Mix12 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID2049507,DTXSID2049507,NTP Mix14 AR1 8-GP,,,,,missing_smiles_final
+DTXSID2049509,DTXSID2049509,NTP Mix16 AR1 8-GP,,,,,missing_smiles_final
+DTXSID2049551,DTXSID2049551,NTP Mix21 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID2049553,DTXSID2049553,NTP Mix23 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID2049555,DTXSID2049555,NTP Mix25 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID2049557,DTXSID2049557,NTP Mix27 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID2049559,DTXSID2049559,NTP Mix28 AR2 3-EQP,,,,,missing_smiles_final
+DTXSID20858868,DTXSID20858868,EPAMED_Water_Set2-2,,,,,missing_smiles_final
+DTXSID20858883,DTXSID20858883,EPAMED_Water_Set2-17,,,,,missing_smiles_final
+DTXSID20858888,DTXSID20858888,EPAMED_Water_Set2-22,,,,,missing_smiles_final
+DTXSID20858904,DTXSID20858904,EPAMED_Water_Set2-38,,,,,missing_smiles_final
+DTXSID20858909,DTXSID20858909,EPAMED_Water_Set2-43,,,,,missing_smiles_final
+DTXSID20872706,DTXSID20872706,EPAMED_Water_Set3-1,,,,,missing_smiles_final
+DTXSID20872721,DTXSID20872721,EPAMED_Water_Set3-16,,,,,missing_smiles_final
+DTXSID20872726,DTXSID20872726,EPAMED_Water_Set3-21,,,,,missing_smiles_final
+DTXSID20872741,DTXSID20872741,EPAMED_Water_Set3-36,,,,,missing_smiles_final
+DTXSID20872746,DTXSID20872746,EPAMED_Water_Set3-41,,,,,missing_smiles_final
+DTXSID20903827,DTXSID20903827,EPAMED_Water_Set4-3,,,,,missing_smiles_final
+DTXSID20903842,DTXSID20903842,EPAMED_Water_Set4-18,,,,,missing_smiles_final
+DTXSID20903847,DTXSID20903847,EPAMED_Water_Set4-23,,,,,missing_smiles_final
+DTXSID20903862,DTXSID20903862,EPAMED_Water_Set5-3,,,,,missing_smiles_final
+DTXSID20903867,DTXSID20903867,EPAMED_Water_Set5-8,,,,,missing_smiles_final
+DTXSID20903882,DTXSID20903882,EPAMED_Water_Set5-23,,,,,missing_smiles_final
+DTXSID20903887,DTXSID20903887,EPAMED_Water_Set5-28,,,,,missing_smiles_final
+DTXSID301339558,DTXSID301339558,AFFF Solberg F1 (0.5X) + F3 (0.5X),,,,,missing_smiles_final
+DTXSID301339560,DTXSID301339560,AFFF Solberg H20 blank,,,,,missing_smiles_final
+DTXSID301351794,DTXSID301351794,Dodecanoic acid; Propylparaben (33:67),,,,,missing_smiles_final
+DTXSID301351801,DTXSID301351801,Propylparaben; Rifampicin (50:50),,,,,missing_smiles_final
+DTXSID3021988,DTXSID3021988,"1-Chloro-2-propanol, technical grade (~75% 1-chloro-2-propanol; ~25% 2-chloro-1-propanol)",,,,,missing_smiles_final
+DTXSID3024528,DTXSID3024528,Anise oil,,,,,missing_smiles_final
+DTXSID3040352,DTXSID3040352,Dinocap,,,,,missing_smiles_final
+DTXSID3042007,DTXSID3042007,Glyceryl monoricinoleate,,,,,missing_smiles_final
+DTXSID3027740,DTXSID3027740,2-Ethylhexyl acid phosphate,,,,,missing_smiles_final
+DTXSID3027875,DTXSID3027875,Glyceryl monooleate,,,,,missing_smiles_final
+DTXSID3027877,DTXSID3027877,Diisodecylphenyl phosphite,,,,,missing_smiles_final
+DTXSID3027902,DTXSID3027902,Methylcyclopentadiene dimer,,,,,missing_smiles_final
+DTXSID3029237,DTXSID3029237,"Siloxanes and Silicones, di-methyl, hydroxy-terminated, hydrolysis products with silica and 3-(trimethoxysilyl)propyl methacrylate",,,,,missing_smiles_final
+DTXSID3029815,DTXSID3029815,"Tridecylamine, branched and linear",,,,,missing_smiles_final
+DTXSID3045352,DTXSID3045352,Colistin sulfate,,,,,missing_smiles_final
+DTXSID3045354,DTXSID3045354,Vancomycin hydrochloride,,,,,missing_smiles_final
+DTXSID3045984,DTXSID3045984,Cellobiose,,,,,missing_smiles_final
+DTXSID3046829,DTXSID3046829,Hydroxyethyl starch,,,,,missing_smiles_final
+DTXSID3047051,DTXSID3047051,Ocimene-Limonene mixture,,,,,missing_smiles_final
+DTXSID3047180,DTXSID3047180,Triisodecyl trimellitate,,,,,missing_smiles_final
+DTXSID3047394,DTXSID3047394,Grinstad Soft-N-Safe,,,,,missing_smiles_final
+DTXSID3047427,DTXSID3047427,"2,4-DB-isooctyl ester",,,,,missing_smiles_final
+DTXSID3047473,DTXSID3047473,Polymethylene polyphenyl polyisocyanate,,,,,missing_smiles_final
+DTXSID3047712,DTXSID3047712,Cornmint oil,,,,,missing_smiles_final
+DTXSID3048738,DTXSID3048738,"1,1'-Tetramethylenediguanidine sulfate",,,,,missing_smiles_final
+DTXSID3049461,DTXSID3049461,NTP Mix73 CT1 62-GP,,,,,missing_smiles_final
+DTXSID3049463,DTXSID3049463,NTP Mix75 CT1 62-GP,,,,,missing_smiles_final
+DTXSID3049465,DTXSID3049465,NTP Mix77 CT1 62-GP,,,,,missing_smiles_final
+DTXSID3049467,DTXSID3049467,NTP Mix79 CT1 62-GP,,,,,missing_smiles_final
+DTXSID3049469,DTXSID3049469,NTP Mix81 CT1 62-GP,,,,,missing_smiles_final
+DTXSID3049540,DTXSID3049540,NTP Mix85 ER AR1 18-EQP,,,,,missing_smiles_final
+DTXSID3049542,DTXSID3049542,NTP Mix87 ER AR1 18-EQP,,,,,missing_smiles_final
+DTXSID3049544,DTXSID3049544,NTP Mix89 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID3049546,DTXSID3049546,NTP Mix91 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID3049548,DTXSID3049548,NTP Mix93 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID3057727,DTXSID3057727,dl-Furfenorex,,,,,missing_smiles_final
+DTXSID30858874,DTXSID30858874,EPAMED_Water_Set2-8,,,,,missing_smiles_final
+DTXSID30858879,DTXSID30858879,EPAMED_Water_Set2-13,,,,,missing_smiles_final
+DTXSID30858894,DTXSID30858894,EPAMED_Water_Set2-28,,,,,missing_smiles_final
+DTXSID30858899,DTXSID30858899,EPAMED_Water_Set2-33,,,,,missing_smiles_final
+DTXSID30858910,DTXSID30858910,EPAMED_Water_Set2-44,,,,,missing_smiles_final
+DTXSID30858915,DTXSID30858915,EPAMED_Water_Set2-49,,,,,missing_smiles_final
+DTXSID30872712,DTXSID30872712,EPAMED_Water_Set3-7,,,,,missing_smiles_final
+DTXSID30872717,DTXSID30872717,EPAMED_Water_Set3-12,,,,,missing_smiles_final
+DTXSID30872732,DTXSID30872732,EPAMED_Water_Set3-27,,,,,missing_smiles_final
+DTXSID30872737,DTXSID30872737,EPAMED_Water_Set3-32,,,,,missing_smiles_final
+DTXSID30872752,DTXSID30872752,EPAMED_Water_Set3-47,,,,,missing_smiles_final
+DTXSID30872757,DTXSID30872757,EPAMED_Water_Set3-52,,,,,missing_smiles_final
+DTXSID30903833,DTXSID30903833,EPAMED_Water_Set4-9,,,,,missing_smiles_final
+DTXSID30903838,DTXSID30903838,EPAMED_Water_Set4-14,,,,,missing_smiles_final
+DTXSID30903853,DTXSID30903853,EPAMED_Water_Set4-29,,,,,missing_smiles_final
+DTXSID30903858,DTXSID30903858,EPAMED_Water_Set4-44,,,,,missing_smiles_final
+DTXSID30903873,DTXSID30903873,EPAMED_Water_Set5-14,,,,,missing_smiles_final
+DTXSID30903878,DTXSID30903878,EPAMED_Water_Set5-19,,,,,missing_smiles_final
+DTXSID30903893,DTXSID30903893,EPAMED_Water_Set5-34,,,,,missing_smiles_final
+DTXSID401339551,DTXSID401339551,AFFF Solberg Unfractionated (1X),,,,,missing_smiles_final
+DTXSID401351804,DTXSID401351804,2-(Phenylmethylene)octanal; Pioglitazone hydrochloride (50:50),,,,,missing_smiles_final
+DTXSID4021264,DTXSID4021264,Selenium dioxide,,,,,missing_smiles_final
+DTXSID4021391,DTXSID4021391,Tris(methylphenyl) phosphate,,,,,missing_smiles_final
+DTXSID4029565,DTXSID4029565,"1,2-Benzenedicarboxylic acid, diundecyl ester, branched and linear",,,,,missing_smiles_final
+DTXSID4029806,DTXSID4029806,"Benzenesulfonic acid, C10-14-alkyl derivs., sodium salts",,,,,missing_smiles_final
+DTXSID4040688,DTXSID4040688,Nystatin,,,,,missing_smiles_final
+DTXSID4041074,DTXSID4041074,Neomycin sulfate,,,,,missing_smiles_final
+DTXSID4026054,DTXSID4026054,Styrax balsam,,,,,missing_smiles_final
+DTXSID4027868,DTXSID4027868,tert-Nonanethiol,,,,,missing_smiles_final
+DTXSID4028460,DTXSID4028460,Benzyl-C12-18-alkyldimethylammonium chlorides,,,,,missing_smiles_final
+DTXSID4028880,DTXSID4028880,Triphenyl phosphates isopropylated,,,,,missing_smiles_final
+DTXSID4029062,DTXSID4029062,Dipropyleneglycol methyl ether acetate,,,,,missing_smiles_final
+DTXSID4045846,DTXSID4045846,Tyrothricin,,,,,missing_smiles_final
+DTXSID4045848,DTXSID4045848,Acriflavine hydrochloride,,,,,missing_smiles_final
+DTXSID4044537,DTXSID4044537,Sodium triisopropyl naphthalene sulfonate,,,,,missing_smiles_final
+DTXSID4044951,DTXSID4044951,2-Hydroxyethyl methacrylate phosphate,,,,,missing_smiles_final
+DTXSID4047040,DTXSID4047040,Zinc neodecanoate,,,,,missing_smiles_final
+DTXSID4047179,DTXSID4047179,Isocetyl stearate,,,,,missing_smiles_final
+DTXSID4047597,DTXSID4047597,Poloxalene,,,,,missing_smiles_final
+DTXSID4047709,DTXSID4047709,Cananga oil,,,,,missing_smiles_final
+DTXSID4048642,DTXSID4048642,Teicoplanin,,,,,missing_smiles_final
+DTXSID4049450,DTXSID4049450,NTP Mix62 CT1 62-GP,,,,,missing_smiles_final
+DTXSID4049452,DTXSID4049452,NTP Mix64 CT1 62-GP,,,,,missing_smiles_final
+DTXSID4049454,DTXSID4049454,NTP Mix66 CT1 62-GP,,,,,missing_smiles_final
+DTXSID4049456,DTXSID4049456,NTP Mix68 CT1 62-GP,,,,,missing_smiles_final
+DTXSID4049458,DTXSID4049458,NTP Mix70 CT1 62-GP,,,,,missing_smiles_final
+DTXSID4049531,DTXSID4049531,NTP Mix111 ER1 10-GP,,,,,missing_smiles_final
+DTXSID4049533,DTXSID4049533,NTP Mix113 ER1 10-GP,,,,,missing_smiles_final
+DTXSID4049535,DTXSID4049535,NTP Mix115 ER1 10-GP,,,,,missing_smiles_final
+DTXSID4049537,DTXSID4049537,NTP Mix82 ER AR1 18-EQP,,,,,missing_smiles_final
+DTXSID4049539,DTXSID4049539,NTP Mix84 ER AR1 18-EQP,,,,,missing_smiles_final
+DTXSID4052891,DTXSID4052891,ZRMN-120612,,,,,missing_smiles_final
+DTXSID4052893,DTXSID4052893,SCGA-041713,,,,,missing_smiles_final
+DTXSID4052895,DTXSID4052895,C111HS-041013,,,,,missing_smiles_final
+DTXSID4052897,DTXSID4052897,IRIA-052113,,,,,missing_smiles_final
+DTXSID4052899,DTXSID4052899,US-WWTP,,,,,missing_smiles_final
+DTXSID40858880,DTXSID40858880,EPAMED_Water_Set2-14,,,,,missing_smiles_final
+DTXSID40858885,DTXSID40858885,EPAMED_Water_Set2-19,,,,,missing_smiles_final
+DTXSID40858901,DTXSID40858901,EPAMED_Water_Set2-35,,,,,missing_smiles_final
+DTXSID40858906,DTXSID40858906,EPAMED_Water_Set2-40,,,,,missing_smiles_final
+DTXSID40858921,DTXSID40858921,EPAMED_Water_Set2-55,,,,,missing_smiles_final
+DTXSID40872708,DTXSID40872708,EPAMED_Water_Set3-3,,,,,missing_smiles_final
+DTXSID40872723,DTXSID40872723,EPAMED_Water_Set3-18,,,,,missing_smiles_final
+DTXSID40872728,DTXSID40872728,EPAMED_Water_Set3-23,,,,,missing_smiles_final
+DTXSID40872743,DTXSID40872743,EPAMED_Water_Set3-38,,,,,missing_smiles_final
+DTXSID40872748,DTXSID40872748,EPAMED_Water_Set3-43,,,,,missing_smiles_final
+DTXSID40903829,DTXSID40903829,EPAMED_Water_Set4-5,,,,,missing_smiles_final
+DTXSID40903844,DTXSID40903844,EPAMED_Water_Set4-20,,,,,missing_smiles_final
+DTXSID40903849,DTXSID40903849,EPAMED_Water_Set4-25,,,,,missing_smiles_final
+DTXSID40903864,DTXSID40903864,EPAMED_Water_Set5-5,,,,,missing_smiles_final
+DTXSID40903869,DTXSID40903869,EPAMED_Water_Set5-10,,,,,missing_smiles_final
+DTXSID40903884,DTXSID40903884,EPAMED_Water_Set5-25,,,,,missing_smiles_final
+DTXSID40903889,DTXSID40903889,EPAMED_Water_Set5-30,,,,,missing_smiles_final
+DTXSID501339554,DTXSID501339554,AFFF Solberg F2 (1X),,,,,missing_smiles_final
+DTXSID501351788,DTXSID501351788,2-(Phenylmethylene)octanal; Butylated hydroxytoluene (33:67),,,,,missing_smiles_final
+DTXSID501351790,DTXSID501351790,Citric acid; Butylated hydroxytoluene (33:67),,,,,missing_smiles_final
+DTXSID501351807,DTXSID501351807,Butylated hydroxytoluene; Bexarotene (50:50),,,,,missing_smiles_final
+DTXSID5023954,DTXSID5023954,Technical chlordane,,,,,missing_smiles_final
+DTXSID5025071,DTXSID5025071,"1,2-Dihydro-2,2,4-trimethylquinoline, polymer",,,,,missing_smiles_final
+DTXSID5026124,DTXSID5026124,"N,N,N',N'-Tetramethyl-p-phenylenediamine",,,,,missing_smiles_final
+DTXSID5027851,DTXSID5027851,"2,4,4-Trimethylpentene",,,,,missing_smiles_final
+DTXSID5027936,DTXSID5027936,"2-Propenoic acid, 2-methyl-, monoester with 1,2-propanediol",,,,,missing_smiles_final
+DTXSID5027982,DTXSID5027982,Diisononyl adipate,,,,,missing_smiles_final
+DTXSID5028033,DTXSID5028033,Triisononyl trimellitate,,,,,missing_smiles_final
+DTXSID5028665,DTXSID5028665,DINP branched,,,,,missing_smiles_final
+DTXSID5029055,DTXSID5029055,"4-Nonylphenol, branched",,,,,missing_smiles_final
+DTXSID5029059,DTXSID5029059,"Perfluoro compounds, C5-18",,,,,missing_smiles_final
+DTXSID5031428,DTXSID5031428,Dihydroergotoxine mesylate,,,,,missing_smiles_final
+DTXSID5044318,DTXSID5044318,Chloramine T hydrate (1:x),,,,,missing_smiles_final
+DTXSID5045750,DTXSID5045750,Amperozide hydrochloride,,,,,missing_smiles_final
+DTXSID5045839,DTXSID5045839,Polymixin B sulfate,,,,,missing_smiles_final
+DTXSID5047245,DTXSID5047245,Corexit 9500,,,,,missing_smiles_final
+DTXSID5047796,DTXSID5047796,Formalin,,,,,missing_smiles_final
+DTXSID5047829,DTXSID5047829,Paromomycin sulfate,,,,,missing_smiles_final
+DTXSID5048683,DTXSID5048683,"Eprinomectin (B1a, B1b mixture)",,,,,missing_smiles_final
+DTXSID5048897,DTXSID5048897,"N,N-Dipropyltryptamine hydrochloride (1:x)",,,,,missing_smiles_final
+DTXSID5049023,DTXSID5049023,Potassium antimony(III) tartrate hydrate,,,,,missing_smiles_final
+DTXSID5049445,DTXSID5049445,NTP Mix57 CT1 62-EQP,,,,,missing_smiles_final
+DTXSID5049447,DTXSID5049447,NTP Mix59 CT1 62-GP,,,,,missing_smiles_final
+DTXSID5049449,DTXSID5049449,NTP Mix61 CT1 62-GP,,,,,missing_smiles_final
+DTXSID5049491,DTXSID5049491,NTP Mix50 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID5049493,DTXSID5049493,NTP Mix51 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID5049495,DTXSID5049495,NTP Mix2 AR1 4-EQP,,,,,missing_smiles_final
+DTXSID5049497,DTXSID5049497,NTP Mix4 AR1 8-EQC,,,,,missing_smiles_final
+DTXSID5049499,DTXSID5049499,NTP Mix6 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID5049520,DTXSID5049520,NTP Mix100 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID5049522,DTXSID5049522,NTP Mix102 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID5049524,DTXSID5049524,NTP Mix104 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID5049526,DTXSID5049526,NTP Mix106 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID5049528,DTXSID5049528,NTP Mix108 ER1 10-GP,,,,,missing_smiles_final
+DTXSID5052911,DTXSID5052911,DSH spr 2012_LSW,,,,,missing_smiles_final
+DTXSID5052913,DTXSID5052913,DSH spr 2012_Knife,,,,,missing_smiles_final
+DTXSID5057911,DTXSID5057911,MED_EnvEDCMix_9EQC,,,,,missing_smiles_final
+DTXSID5057913,DTXSID5057913,MED_ChemSTMix_5EQC,,,,,missing_smiles_final
+DTXSID5057915,DTXSID5057915,MED_ERAntagonMix_4EQC,,,,,missing_smiles_final
+DTXSID5057917,DTXSID5057917,MED_ERBothMix_8EQC,,,,,missing_smiles_final
+DTXSID50858871,DTXSID50858871,EPAMED_Water_Set2-5,,,,,missing_smiles_final
+DTXSID50858876,DTXSID50858876,EPAMED_Water_Set2-10,,,,,missing_smiles_final
+DTXSID50858891,DTXSID50858891,EPAMED_Water_Set2-25,,,,,missing_smiles_final
+DTXSID50858896,DTXSID50858896,EPAMED_Water_Set2-30,,,,,missing_smiles_final
+DTXSID50858912,DTXSID50858912,EPAMED_Water_Set2-46,,,,,missing_smiles_final
+DTXSID50858917,DTXSID50858917,EPAMED_Water_Set2-51,,,,,missing_smiles_final
+DTXSID50872714,DTXSID50872714,EPAMED_Water_Set3-9,,,,,missing_smiles_final
+DTXSID50872719,DTXSID50872719,EPAMED_Water_Set3-14,,,,,missing_smiles_final
+DTXSID50872734,DTXSID50872734,EPAMED_Water_Set3-29,,,,,missing_smiles_final
+DTXSID50872739,DTXSID50872739,EPAMED_Water_Set3-34,,,,,missing_smiles_final
+DTXSID50872754,DTXSID50872754,EPAMED_Water_Set3-49,,,,,missing_smiles_final
+DTXSID50903830,DTXSID50903830,EPAMED_Water_Set4-6,,,,,missing_smiles_final
+DTXSID50903835,DTXSID50903835,EPAMED_Water_Set4-11,,,,,missing_smiles_final
+DTXSID50903850,DTXSID50903850,EPAMED_Water_Set4-26,,,,,missing_smiles_final
+DTXSID50903855,DTXSID50903855,EPAMED_Water_Set4-41,,,,,missing_smiles_final
+DTXSID50903870,DTXSID50903870,EPAMED_Water_Set5-11,,,,,missing_smiles_final
+DTXSID50903875,DTXSID50903875,EPAMED_Water_Set5-16,,,,,missing_smiles_final
+DTXSID50903890,DTXSID50903890,EPAMED_Water_Set5-31,,,,,missing_smiles_final
+DTXSID50903895,DTXSID50903895,EPAMED_Water_Set5-36,,,,,missing_smiles_final
+DTXSID601339557,DTXSID601339557,AFFF Solberg F1 (0.5X) +  F2 (0.5X),,,,,missing_smiles_final
+DTXSID601339595,DTXSID601339595,AFFF Solberg F2 blank,,,,,missing_smiles_final
+DTXSID601351793,DTXSID601351793,Dodecanoic acid; Propylparaben (67:33),,,,,missing_smiles_final
+DTXSID6021084,DTXSID6021084,Gamma-Oryzanol,,,,,missing_smiles_final
+DTXSID6021113,DTXSID6021113,Peppermint oil,,,,,missing_smiles_final
+DTXSID6027395,DTXSID6027395,Sorbitan monododecanoate,,,,,missing_smiles_final
+DTXSID6027634,DTXSID6027634,1-Propene tetramer,,,,,missing_smiles_final
+DTXSID6027844,DTXSID6027844,"1,2,3,6-Tetrahydromethyl-3,6-methanophthalic anhydride",,,,,missing_smiles_final
+DTXSID6029335,DTXSID6029335,Sorbitan monohexadecanoate,,,,,missing_smiles_final
+DTXSID6029755,DTXSID6029755,"1,2-Propanediol monobutyl ether",,,,,missing_smiles_final
+DTXSID6031209,DTXSID6031209,tert-Butyl hydroperoxide (70% Solution in Water),,,,,missing_smiles_final
+DTXSID6033326,DTXSID6033326,Chlorowax 500C,,,,,missing_smiles_final
+DTXSID6041557,DTXSID6041557,Dihydromyrcenol,,,,,missing_smiles_final
+DTXSID6044484,DTXSID6044484,Isononanamine,,,,,missing_smiles_final
+DTXSID6044935,DTXSID6044935,"Chromium acetate, basic",,,,,missing_smiles_final
+DTXSID6045111,DTXSID6045111,Adriamycin hydrochloride-DNA complex,,,,,missing_smiles_final
+DTXSID6046688,DTXSID6046688,"1,2-Benzenediol, 4,4′-[1,6-hexanediylbis[imino(1-hydroxy-2,1-ethanediyl)]]bis-, sulfate (salt)",,,,,missing_smiles_final
+DTXSID6046894,DTXSID6046894,Cytochrome C,,,,,missing_smiles_final
+DTXSID6047527,DTXSID6047527,"Adipic acid, polypropyleneglycol, laurate",,,,,missing_smiles_final
+DTXSID6045406,DTXSID6045406,Vitamin K2,,,,,missing_smiles_final
+DTXSID6045822,DTXSID6045822,Colistimethate sodium,,,,,missing_smiles_final
+DTXSID6048755,DTXSID6048755,Aloin,,,,,missing_smiles_final
+DTXSID6049480,DTXSID6049480,NTP Mix43 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID6049482,DTXSID6049482,NTP Mix45 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID6049484,DTXSID6049484,NTP Mix37 CT1 2-EQP,,,,,missing_smiles_final
+DTXSID6049486,DTXSID6049486,NTP Mix34 CT1 1-EQP,,,,,missing_smiles_final
+DTXSID6049488,DTXSID6049488,NTP Mix48 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID6049511,DTXSID6049511,NTP Mix18 AR1 8-GP,,,,,missing_smiles_final
+DTXSID6049513,DTXSID6049513,NTP Mix20 AR1 8-GP,,,,,missing_smiles_final
+DTXSID6049515,DTXSID6049515,NTP Mix117 ER1 5-EQP,,,,,missing_smiles_final
+DTXSID6049517,DTXSID6049517,NTP Mix97 ER1 10-EQC,,,,,missing_smiles_final
+DTXSID6049519,DTXSID6049519,NTP Mix98 ER1 10-EQP,,,,,missing_smiles_final
+DTXSID6049561,DTXSID6049561,NTP Mix31 AR2 7-EQC,,,,,missing_smiles_final
+DTXSID6052900,DTXSID6052900,MX-WWTP,,,,,missing_smiles_final
+DTXSID6052902,DTXSID6052902,EF-WWTP,,,,,missing_smiles_final
+DTXSID6052904,DTXSID6052904,Sappi 2013_WLSSD-EF,,,,,missing_smiles_final
+DTXSID6052906,DTXSID6052906,DSH fall 2012_Prox,,,,,missing_smiles_final
+DTXSID6052908,DTXSID6052908,DSH fall 2012_Rice,,,,,missing_smiles_final
+DTXSID6057908,DTXSID6057908,MED_ChemMix_7EnvC,,,,,missing_smiles_final
+DTXSID60858867,DTXSID60858867,EPAMED_Water_Set2-1,,,,,missing_smiles_final
+DTXSID60858882,DTXSID60858882,EPAMED_Water_Set2-16,,,,,missing_smiles_final
+DTXSID60858887,DTXSID60858887,EPAMED_Water_Set2-21,,,,,missing_smiles_final
+DTXSID60858903,DTXSID60858903,EPAMED_Water_Set2-37,,,,,missing_smiles_final
+DTXSID60858908,DTXSID60858908,EPAMED_Water_Set2-42,,,,,missing_smiles_final
+DTXSID60872720,DTXSID60872720,EPAMED_Water_Set3-15,,,,,missing_smiles_final
+DTXSID60872725,DTXSID60872725,EPAMED_Water_Set3-20,,,,,missing_smiles_final
+DTXSID60872740,DTXSID60872740,EPAMED_Water_Set3-35,,,,,missing_smiles_final
+DTXSID60872745,DTXSID60872745,EPAMED_Water_Set3-40,,,,,missing_smiles_final
+DTXSID60903826,DTXSID60903826,EPAMED_Water_Set4-2,,,,,missing_smiles_final
+DTXSID60903841,DTXSID60903841,EPAMED_Water_Set4-17,,,,,missing_smiles_final
+DTXSID60903846,DTXSID60903846,EPAMED_Water_Set4-22,,,,,missing_smiles_final
+DTXSID60903861,DTXSID60903861,EPAMED_Water_Set5-2,,,,,missing_smiles_final
+DTXSID60903866,DTXSID60903866,EPAMED_Water_Set5-7,,,,,missing_smiles_final
+DTXSID60903881,DTXSID60903881,EPAMED_Water_Set5-22,,,,,missing_smiles_final
+DTXSID60903886,DTXSID60903886,EPAMED_Water_Set5-27,,,,,missing_smiles_final
+DTXSID701339598,DTXSID701339598,AFFF Solberg F3 blank,,,,,missing_smiles_final
+DTXSID701351796,DTXSID701351796,1-Phenyl-3-methyl-5-pyrazolone; Propylparaben (67:33),,,,,missing_smiles_final
+DTXSID701351803,DTXSID701351803,2-(Phenylmethylene)octanal and Triclosan (50:50),,,,,missing_smiles_final
+DTXSID7021283,DTXSID7021283,Strobane,,,,,missing_smiles_final
+DTXSID7021368,DTXSID7021368,Toxaphene,,,,,missing_smiles_final
+DTXSID7024534,DTXSID7024534,Annatto,,,,,missing_smiles_final
+DTXSID7024740,DTXSID7024740,Casanthrol,,,,,missing_smiles_final
+DTXSID7024742,DTXSID7024742,Castor oil,,,,,missing_smiles_final
+DTXSID7024906,DTXSID7024906,D & C Yellow 11,,,,,missing_smiles_final
+DTXSID7025219,DTXSID7025219,Sodium dodecylbenzenesulfonate,,,,,missing_smiles_final
+DTXSID7037684,DTXSID7037684,Polybrene,,,,,missing_smiles_final
+DTXSID7027916,DTXSID7027916,Neodecanoic acid,,,,,missing_smiles_final
+DTXSID7028015,DTXSID7028015,Tripropylene glycol diacrylate,,,,,missing_smiles_final
+DTXSID7028306,DTXSID7028306,"Fatty acids, C16-18",,,,,missing_smiles_final
+DTXSID7028774,DTXSID7028774,Alkyl (C12-C14) glycidyl ether,,,,,missing_smiles_final
+DTXSID7028776,DTXSID7028776,"Phenol, 4-methyl-, reaction products with dicyclopentadiene and isobutylene",,,,,missing_smiles_final
+DTXSID7044978,DTXSID7044978,"Bis[(2-ethyl-2,5-dimethylhexanoyl)oxy](dimethyl)stannane",,,,,missing_smiles_final
+DTXSID7045360,DTXSID7045360,"Piperazine, 1-[(4-chlorophenyl)phenylmethyl]-4-methyl-, hydrochloride (1:?)",,,,,missing_smiles_final
+DTXSID7046708,DTXSID7046708,Polyethylene glycol polymer with hexadecyl ether,,,,,missing_smiles_final
+DTXSID7046750,DTXSID7046750,Hyaluronic acid,,,,,missing_smiles_final
+DTXSID7047140,DTXSID7047140,Isopropyl citrate (Mixture),,,,,missing_smiles_final
+DTXSID7047853,DTXSID7047853,Vinrosidine sulfate (1:x),,,,,missing_smiles_final
+DTXSID7048584,DTXSID7048584,Aviptadil,,,,,missing_smiles_final
+DTXSID7048877,DTXSID7048877,Ibogaine hydrochloride (1:x),,,,,missing_smiles_final
+DTXSID7048954,DTXSID7048954,Gonadorelin hydrochloride,,,,,missing_smiles_final
+DTXSID7049471,DTXSID7049471,NTP Mix39 CT1 2-EQP,,,,,missing_smiles_final
+DTXSID7049473,DTXSID7049473,NTP Mix54 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID7049475,DTXSID7049475,NTP Mix56 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID7049477,DTXSID7049477,NTP Mix41 CT1 3-EQP,,,,,missing_smiles_final
+DTXSID7049479,DTXSID7049479,NTP Mix33 CT1 1-EQP,,,,,missing_smiles_final
+DTXSID7049500,DTXSID7049500,NTP Mix7 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID7049502,DTXSID7049502,NTP Mix9 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID7049504,DTXSID7049504,NTP Mix11 AR1 8-7EQP,,,,,missing_smiles_final
+DTXSID7049506,DTXSID7049506,NTP Mix13 AR1 8-GP,,,,,missing_smiles_final
+DTXSID7049508,DTXSID7049508,NTP Mix15 AR1 8-GP,,,,,missing_smiles_final
+DTXSID7049550,DTXSID7049550,NTP Mix95 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID7049552,DTXSID7049552,NTP Mix22 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID7049554,DTXSID7049554,NTP Mix24 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID7049556,DTXSID7049556,NTP Mix26 AR2 2-EQP,,,,,missing_smiles_final
+DTXSID7049558,DTXSID7049558,NTP Mix32 AR2 7-EQP,,,,,missing_smiles_final
+DTXSID7052866,DTXSID7052866,cis-Permethrin in cyclohexane,,,,,missing_smiles_final
+DTXSID7057814,DTXSID7057814,Ethyl eicosapentaenoate,,,,,missing_smiles_final
+DTXSID70858873,DTXSID70858873,EPAMED_Water_Set2-7,,,,,missing_smiles_final
+DTXSID70858878,DTXSID70858878,EPAMED_Water_Set2-12,,,,,missing_smiles_final
+DTXSID70858893,DTXSID70858893,EPAMED_Water_Set2-27,,,,,missing_smiles_final
+DTXSID70858898,DTXSID70858898,EPAMED_Water_Set2-32,,,,,missing_smiles_final
+DTXSID70858914,DTXSID70858914,EPAMED_Water_Set2-48,,,,,missing_smiles_final
+DTXSID70858919,DTXSID70858919,EPAMED_Water_Set2-53,,,,,missing_smiles_final
+DTXSID70872711,DTXSID70872711,EPAMED_Water_Set3-6,,,,,missing_smiles_final
+DTXSID70872716,DTXSID70872716,EPAMED_Water_Set3-11,,,,,missing_smiles_final
+DTXSID70872731,DTXSID70872731,EPAMED_Water_Set3-26,,,,,missing_smiles_final
+DTXSID70872736,DTXSID70872736,EPAMED_Water_Set3-31,,,,,missing_smiles_final
+DTXSID70872751,DTXSID70872751,EPAMED_Water_Set3-46,,,,,missing_smiles_final
+DTXSID70872756,DTXSID70872756,EPAMED_Water_Set3-51,,,,,missing_smiles_final
+DTXSID70903832,DTXSID70903832,EPAMED_Water_Set4-8,,,,,missing_smiles_final
+DTXSID70903837,DTXSID70903837,EPAMED_Water_Set4-13,,,,,missing_smiles_final
+DTXSID70903852,DTXSID70903852,EPAMED_Water_Set4-28,,,,,missing_smiles_final
+DTXSID70903857,DTXSID70903857,EPAMED_Water_Set4-43,,,,,missing_smiles_final
+DTXSID70903872,DTXSID70903872,EPAMED_Water_Set5-13,,,,,missing_smiles_final
+DTXSID70903877,DTXSID70903877,EPAMED_Water_Set5-18,,,,,missing_smiles_final
+DTXSID70903892,DTXSID70903892,EPAMED_Water_Set5-33,,,,,missing_smiles_final
+DTXSID801339553,DTXSID801339553,AFFF Solberg F1 (1X),,,,,missing_smiles_final
+DTXSID801351787,DTXSID801351787,Propylparaben; Butylated hydroxytoluene (67:33),,,,,missing_smiles_final
+DTXSID801351799,DTXSID801351799,Propylparaben and Triclosan (50:50),,,,,missing_smiles_final
+DTXSID801351806,DTXSID801351806,Citric acid; Bexarotene (50:50),,,,,missing_smiles_final
+DTXSID8021486,DTXSID8021486,"1,​2,​3-​Benzenetricarboxylic acid, hydrate (1:x)",,,,,missing_smiles_final
+DTXSID8023892,DTXSID8023892,Abamectin,,,,,missing_smiles_final
+DTXSID8027870,DTXSID8027870,"3-(Dodecenyl)dihydro-2,5-furandione",,,,,missing_smiles_final
+DTXSID8027878,DTXSID8027878,"2-Propenoic acid, monoester with 1,2-propanediol",,,,,missing_smiles_final
+DTXSID8027905,DTXSID8027905,"Dihydro-3-(tetrapropenyl)-2,5-furandione",,,,,missing_smiles_final
+DTXSID8027955,DTXSID8027955,Isooctyl acrylate,,,,,missing_smiles_final
+DTXSID8028842,DTXSID8028842,Sodium polyphosphate,,,,,missing_smiles_final
+DTXSID8029369,DTXSID8029369,Vinyl neodecanoate,,,,,missing_smiles_final
+DTXSID8031366,DTXSID8031366,Ginkgo biloba extract,,,,,missing_smiles_final
+DTXSID8034742,DTXSID8034742,"Milbemectin (mixture of 70% Milbemycin A4, 30% Milbemycin A3)",,,,,missing_smiles_final
+DTXSID8034873,DTXSID8034873,Pyrethrins,,,,,missing_smiles_final
+DTXSID8040775,DTXSID8040775,Terpineol,,,,,missing_smiles_final
+DTXSID8042006,DTXSID8042006,Glyceryl monooctanoate,,,,,missing_smiles_final
+DTXSID8044175,DTXSID8044175,Clove leaf oil,,,,,missing_smiles_final
+DTXSID8044177,DTXSID8044177,Nutmeg oil,,,,,missing_smiles_final
+DTXSID8044541,DTXSID8044541,Isocyclocitral,,,,,missing_smiles_final
+DTXSID8044911,DTXSID8044911,Isooctyl 3-mercaptopropionate,,,,,missing_smiles_final
+DTXSID8045355,DTXSID8045355,Bacitracin,,,,,missing_smiles_final
+DTXSID8046290,DTXSID8046290,Viomycin sulfate (1:x),,,,,missing_smiles_final
+DTXSID8046666,DTXSID8046666,C.I. Basic Violet 1,,,,,missing_smiles_final
+DTXSID8046826,DTXSID8046826,Uricase from Bacillus fastidiosus,,,,,missing_smiles_final
+DTXSID8047218,DTXSID8047218,"Sodium bisulfite, mixture of NaHSO3 and Na2S2O5",,,,,missing_smiles_final
+DTXSID8047395,DTXSID8047395,"Diisononyl cyclohexane-1,2-dicarboxylate",,,,,missing_smiles_final
+DTXSID8049460,DTXSID8049460,NTP Mix72 CT1 62-GP,,,,,missing_smiles_final
+DTXSID8049462,DTXSID8049462,NTP Mix74 CT1 62-GP,,,,,missing_smiles_final
+DTXSID8049464,DTXSID8049464,NTP Mix76 CT1 62-GP,,,,,missing_smiles_final
+DTXSID8049466,DTXSID8049466,NTP Mix78 CT1 62-GP,,,,,missing_smiles_final
+DTXSID8049468,DTXSID8049468,NTP Mix80 CT1 62-GP,,,,,missing_smiles_final
+DTXSID8049541,DTXSID8049541,NTP Mix86 ER AR1 18-EQP,,,,,missing_smiles_final
+DTXSID8049543,DTXSID8049543,NTP Mix88 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID8049545,DTXSID8049545,NTP Mix90 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID8049547,DTXSID8049547,NTP Mix92 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID8049549,DTXSID8049549,NTP Mix94 ER AR1 18-GP,,,,,missing_smiles_final
+DTXSID80858869,DTXSID80858869,EPAMED_Water_Set2-3,,,,,missing_smiles_final
+DTXSID80858884,DTXSID80858884,EPAMED_Water_Set2-18,,,,,missing_smiles_final
+DTXSID80858889,DTXSID80858889,EPAMED_Water_Set2-23,,,,,missing_smiles_final
+DTXSID80858900,DTXSID80858900,EPAMED_Water_Set2-34,,,,,missing_smiles_final
+DTXSID80858905,DTXSID80858905,EPAMED_Water_Set2-39,,,,,missing_smiles_final
+DTXSID80858920,DTXSID80858920,EPAMED_Water_Set2-54,,,,,missing_smiles_final
+DTXSID80872707,DTXSID80872707,EPAMED_Water_Set3-2,,,,,missing_smiles_final
+DTXSID80872722,DTXSID80872722,EPAMED_Water_Set3-17,,,,,missing_smiles_final
+DTXSID80872727,DTXSID80872727,EPAMED_Water_Set3-22,,,,,missing_smiles_final
+DTXSID80872742,DTXSID80872742,EPAMED_Water_Set3-37,,,,,missing_smiles_final
+DTXSID80872747,DTXSID80872747,EPAMED_Water_Set3-42,,,,,missing_smiles_final
+DTXSID80903828,DTXSID80903828,EPAMED_Water_Set4-4,,,,,missing_smiles_final
+DTXSID80903843,DTXSID80903843,EPAMED_Water_Set4-19,,,,,missing_smiles_final
+DTXSID80903848,DTXSID80903848,EPAMED_Water_Set4-24,,,,,missing_smiles_final
+DTXSID80903863,DTXSID80903863,EPAMED_Water_Set5-4,,,,,missing_smiles_final
+DTXSID80903868,DTXSID80903868,EPAMED_Water_Set5-9,,,,,missing_smiles_final
+DTXSID80903883,DTXSID80903883,EPAMED_Water_Set5-24,,,,,missing_smiles_final
+DTXSID80903888,DTXSID80903888,EPAMED_Water_Set5-29,,,,,missing_smiles_final
+DTXSID901339556,DTXSID901339556,AFFF Solberg F1 (0.33X) + F2 (0.33X) + F3 (0.33X),,,,,missing_smiles_final
+DTXSID901351485,DTXSID901351485,Propylparaben; 2-(Phenylmethylene)octanal (67:33),,,,,missing_smiles_final
+DTXSID8047630,DTXSID8047630,Tetronic 701,,,,,missing_smiles_final
+DTXSID8047711,DTXSID8047711,"Oils, bran",,,,,missing_smiles_final
+DTXSID8048604,DTXSID8048604,Leucomycin tartrate,,,,,missing_smiles_final
+DTXSID8048608,DTXSID8048608,Lysozyme hydrochloride,,,,,missing_smiles_final
+DTXSID9023883,DTXSID9023883,Aroclor 1016,,,,,missing_smiles_final
+DTXSID9020326,DTXSID9020326,Chromic oxide pigment,,,,,missing_smiles_final
+DTXSID90274132,DTXSID90274132,DOWANOL DiPPH Glycol Ether,,,,,missing_smiles_final
+DTXSID9027948,DTXSID9027948,"Dihydro-3-(octadecenyl)-2,5-furandione",,,,,missing_smiles_final
+DTXSID9029017,DTXSID9029017,"1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",,,,,missing_smiles_final
+DTXSID9029061,DTXSID9029061,"Hexanol, acetate, branched and linear",,,,,missing_smiles_final
+DTXSID9029300,DTXSID9029300,Polysorbate 60,,,,,missing_smiles_final
+DTXSID9029304,DTXSID9029304,Glyceryl stearate,,,,,missing_smiles_final
+DTXSID9034317,DTXSID9034317,Benzalkonium chloride,,,,,missing_smiles_final
+DTXSID9034737,DTXSID9034737,Metiram,,,,,missing_smiles_final
+DTXSID9024853,DTXSID9024853,"Creosote, wood",,,,,missing_smiles_final
+DTXSID9026051,DTXSID9026051,Stoddard solvent,,,,,missing_smiles_final
+DTXSID9044900,DTXSID9044900,Tricyclodecanedimethanol,,,,,missing_smiles_final
+DTXSID9044902,DTXSID9044902,Calcium neodecanoate,,,,,missing_smiles_final
+DTXSID9044904,DTXSID9044904,C.I. Acid Blue 22,,,,,missing_smiles_final
+DTXSID9044958,DTXSID9044958,Trimethylsilyl silicate,,,,,missing_smiles_final
+DTXSID9042338,DTXSID9042338,Di(propylene glycol) tert-butyl ether,,,,,missing_smiles_final
+DTXSID9044580,DTXSID9044580,Pentaerythritol allyl ether,,,,,missing_smiles_final
+DTXSID9047708,DTXSID9047708,Igepal CO-890,,,,,missing_smiles_final
+DTXSID9047831,DTXSID9047831,Levamisole resinate,,,,,missing_smiles_final
+DTXSID9048776,DTXSID9048776,Zanapezil fumarate (1:x),,,,,missing_smiles_final
+DTXSID9046318,DTXSID9046318,(+/-) -Niguldipine hydrochloride (1:x),,,,,missing_smiles_final
+DTXSID9046819,DTXSID9046819,Diethylaminoethyl-sephacel,,,,,missing_smiles_final
+DTXSID9049451,DTXSID9049451,NTP Mix63 CT1 62-GP,,,,,missing_smiles_final
+DTXSID9049453,DTXSID9049453,NTP Mix65 CT1 62-GP,,,,,missing_smiles_final
+DTXSID9049455,DTXSID9049455,NTP Mix67 CT1 62-GP,,,,,missing_smiles_final
+DTXSID9049457,DTXSID9049457,NTP Mix69 CT1 62-GP,,,,,missing_smiles_final
+DTXSID9049459,DTXSID9049459,NTP Mix71 CT1 62-GP,,,,,missing_smiles_final
+DTXSID9049530,DTXSID9049530,NTP Mix110 ER1 10-GP,,,,,missing_smiles_final
+DTXSID9049532,DTXSID9049532,NTP Mix112 ER1 10-GP,,,,,missing_smiles_final
+DTXSID9049534,DTXSID9049534,NTP Mix114 ER1 10-GP,,,,,missing_smiles_final
+DTXSID9049536,DTXSID9049536,NTP Mix116 ER1 10-GP,,,,,missing_smiles_final
+DTXSID9049538,DTXSID9049538,NTP Mix83 ER AR1 18-EQC,,,,,missing_smiles_final
+DTXSID9052890,DTXSID9052890,AKIA112012,,,,,missing_smiles_final
+DTXSID9052892,DTXSID9052892,SPCO-121212,,,,,missing_smiles_final
+DTXSID9052894,DTXSID9052894,RFPR-032713,,,,,missing_smiles_final
+DTXSID9052896,DTXSID9052896,PSNJ-121112,,,,,missing_smiles_final
+DTXSID9052898,DTXSID9052898,FAR-UP,,,,,missing_smiles_final
+DTXSID9057890,DTXSID9057890,Anti-OP-18/Stathmin antibody produced in rabbit,,,,,missing_smiles_final
+DTXSID90858693,DTXSID90858693,Polyoxyethylene branched-C9-alkylphenol,,,,,missing_smiles_final
+DTXSID90858870,DTXSID90858870,EPAMED_Water_Set2-4,,,,,missing_smiles_final
+DTXSID90858875,DTXSID90858875,EPAMED_Water_Set2-9,,,,,missing_smiles_final
+DTXSID90858890,DTXSID90858890,EPAMED_Water_Set2-24,,,,,missing_smiles_final
+DTXSID90858895,DTXSID90858895,EPAMED_Water_Set2-29,,,,,missing_smiles_final
+DTXSID90858911,DTXSID90858911,EPAMED_Water_Set2-45,,,,,missing_smiles_final
+DTXSID90858916,DTXSID90858916,EPAMED_Water_Set2-50,,,,,missing_smiles_final
+DTXSID90872713,DTXSID90872713,EPAMED_Water_Set3-8,,,,,missing_smiles_final
+DTXSID90872718,DTXSID90872718,EPAMED_Water_Set3-13,,,,,missing_smiles_final
+DTXSID90872733,DTXSID90872733,EPAMED_Water_Set3-28,,,,,missing_smiles_final
+DTXSID90872738,DTXSID90872738,EPAMED_Water_Set3-33,,,,,missing_smiles_final
+DTXSID90872753,DTXSID90872753,EPAMED_Water_Set3-48,,,,,missing_smiles_final
+DTXSID90903834,DTXSID90903834,EPAMED_Water_Set4-10,,,,,missing_smiles_final
+DTXSID90903839,DTXSID90903839,EPAMED_Water_Set4-15,,,,,missing_smiles_final
+DTXSID90903854,DTXSID90903854,EPAMED_Water_Set4-30,,,,,missing_smiles_final
+DTXSID90903859,DTXSID90903859,EPAMED_Water_Set4-45,,,,,missing_smiles_final
+DTXSID90903874,DTXSID90903874,EPAMED_Water_Set5-15,,,,,missing_smiles_final
+DTXSID90903879,DTXSID90903879,EPAMED_Water_Set5-20,,,,,missing_smiles_final
+DTXSID90903894,DTXSID90903894,EPAMED_Water_Set5-35,,,,,missing_smiles_final
+DTXSID0024840,DTXSID0024840,Cobaltocene,[Co].c1cccc1.c1cccc1,,,[Co].c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID2024616,DTXSID2024616,Vanadocene dichloride,Cl[V]Cl.c1cccc1.c1cccc1,,,Cl[V]Cl.c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID3021354,DTXSID3021354,Titanocene dichloride,Cl[Ti]Cl.c1cccc1.c1cccc1,,,Cl[Ti]Cl.c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID5027857,DTXSID5027857,Texanol,"CC(C)C([*])C(C)(C)C[*] |$;;;;_R1;;;;;_R1$,RG:_R1={CC(C)C(=O)O* |$;;;;;;_AP1$,lp:4:2,5:2|},LOG={_R1:;H;1}|",,,"CC(C)C([*])C(C)(C)C[*] |$;;;;_R1;;;;;_R1$,RG:_R1={CC(C)C(=O)O* |$;;;;;;_AP1$,lp:4:2,5:2|},LOG={_R1:;H;1}|",no_parseable_smiles
+DTXSID7024615,DTXSID7024615,Bis(cyclopentadiene)chromium(II),[Cr].c1cccc1.c1cccc1,,,[Cr].c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID7026318,DTXSID7026318,Zirconocene dichloride,Cl[Zr]Cl.c1cccc1.c1cccc1,,,Cl[Zr]Cl.c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID8025709,DTXSID8025709,Nickelocene,[Ni].c1cccc1.c1cccc1,,,[Ni].c1cccc1.c1cccc1,no_parseable_smiles
+DTXSID9027738,DTXSID9027738,Methylcyclopentadienylmanganese tricarbonyl,[Mn+].[C-]#[O+].[C-]#[O+].[C-]#[O+].Cc1cc[c-]c1,,,[Mn+].[C-]#[O+].[C-]#[O+].[C-]#[O+].Cc1cc[c-]c1,no_parseable_smiles
+DTXSID9036933,DTXSID9036933,Sodium hexafluorosilicate,[Na+].[Na+].F[Si--](F)(F)(F)(F)F,,,[Na+].[Na+].F[Si--](F)(F)(F)(F)F,no_parseable_smiles
+DTXSID9025326,DTXSID9025326,Ferrocene,[Fe].c1cccc1.c1cccc1,,,[Fe].c1cccc1.c1cccc1,no_parseable_smiles

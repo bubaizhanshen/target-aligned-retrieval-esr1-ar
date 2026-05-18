@@ -1,0 +1,60 @@
+study:
+  id: compound_target_phase2_v2
+  title: Phase 2 reduced pollutant-protein interaction panel with retained strong auxiliaries
+
+inputs:
+  ctx_ingest_dir: data/ctx_target_mie_er_ahr_ar
+
+features:
+  morgan_radius: 2
+  morgan_bits: 512
+  descriptor_columns:
+    - mol_wt
+    - logp
+    - tpsa
+    - hbd
+    - hba
+    - ring_count
+    - aromatic_rings
+    - fraction_csp3
+
+similarity_prior:
+  enabled: false
+  top_k: 3
+
+labels:
+  tasks:
+    - esr1_binding
+    - ar_binding
+    - reporter_response
+    - esr1_reporter
+    - mie_receptor_binding
+    - ahr_reporter
+
+training:
+  evaluation_domain: pollutant
+  models:
+    - logistic_regression
+    - random_forest
+  pollutants_sample_weight: 1.0
+  np_sample_weight: 1.0
+  splits:
+    random_cv:
+      enabled: true
+      n_splits: 5
+      n_repeats: 1
+      seed: 17
+    family_holdout:
+      enabled: false
+      group_column: chemical_class
+    scaffold_holdout:
+      enabled: true
+      method: repeated_group_shuffle
+      group_column: murcko_scaffold
+      n_splits: 5
+      test_size: 0.2
+      seed: 17
+
+outputs:
+  dataset_dir: data/compound_target_phase2_v2
+  results_dir: outputs/compound_target_phase2_v2_baselines

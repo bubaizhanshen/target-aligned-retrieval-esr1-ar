@@ -1,0 +1,12 @@
+{
+  "study_id": "compound_protein_interaction_v1",
+  "n_targets": 4,
+  "core_targets": [
+    "ESR1",
+    "AR"
+  ],
+  "expansion_targets": [
+    "AHR",
+    "PPARG"
+  ]
+}

@@ -1,0 +1,31 @@
+task,query_compound_id,query_name,memory_name,top_ref_name,top_ref_compound_id,top_ref_similarity,mean_ref_label,query_delta_score
+esr1_binding,DTXSID2036588,"Glycols, polyethylene, mono(p-nonylphenyl) ether",pollutant_only,4-(Hexyloxy)phenol,DTXSID4048195,0.5588235259056091,1.0,0.7912578662236532
+esr1_binding,DTXSID2036588,"Glycols, polyethylene, mono(p-nonylphenyl) ether",generic_bioactive,CHEMBL46937,CHEMBL46937,0.359375,1.0,0.7912578662236532
+esr1_binding,DTXSID2036588,"Glycols, polyethylene, mono(p-nonylphenyl) ether",mixed,4-(Hexyloxy)phenol,DTXSID4048195,0.5588235259056091,1.0,0.7912578662236532
+esr1_binding,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",pollutant_only,"1H,1H-Perfluoro-3,6,9-trioxadecan-1-ol",DTXSID40380797,0.8888888955116272,0.6,0.7897487839063009
+esr1_binding,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",generic_bioactive,CHEMBL128227,CHEMBL128227,0.15909090638160706,1.0,0.7897487839063009
+esr1_binding,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",mixed,"1H,1H-Perfluoro-3,6,9-trioxadecan-1-ol",DTXSID40380797,0.8888888955116272,0.6,0.7897487839063009
+esr1_binding,DTXSID4020375,DDT,pollutant_only,"o,p'-DDT",DTXSID6022345,0.6538461446762085,0.6,0.7793091257413229
+esr1_binding,DTXSID4020375,DDT,generic_bioactive,CHEMBL196585,CHEMBL196585,0.6086956262588501,1.0,0.7793091257413229
+esr1_binding,DTXSID4020375,DDT,mixed,"o,p'-DDT",DTXSID6022345,0.6538461446762085,0.8,0.7793091257413229
+esr1_binding,DTXSID5040708,4-Hexylaniline,pollutant_only,4-Pentylaniline,DTXSID0040707,0.9545454382896423,0.4,0.7783656618718247
+esr1_binding,DTXSID5040708,4-Hexylaniline,generic_bioactive,CHEMBL3422052,CHEMBL3422052,0.31707316637039185,1.0,0.7783656618718247
+esr1_binding,DTXSID5040708,4-Hexylaniline,mixed,4-Pentylaniline,DTXSID0040707,0.9545454382896423,0.4,0.7783656618718247
+esr1_binding,DTXSID2021367,Toremifene citrate,pollutant_only,Tamoxifen citrate,DTXSID8021301,0.738095223903656,0.8,0.7709709723790487
+esr1_binding,DTXSID2021367,Toremifene citrate,generic_bioactive,4-HYDROXYTORMIFENE,CHEMBL1402,0.9047619104385376,1.0,0.7709709723790487
+esr1_binding,DTXSID2021367,Toremifene citrate,mixed,4-HYDROXYTORMIFENE,CHEMBL1402,0.9047619104385376,1.0,0.7709709723790487
+esr1_binding,DTXSID0025234,Eosin,pollutant_only,C.I. Solvent Red 43,DTXSID3044590,1.0,0.6,0.7501763224601745
+esr1_binding,DTXSID0025234,Eosin,generic_bioactive,CHEMBL25228,CHEMBL25228,0.3396226465702057,1.0,0.7501763224601745
+esr1_binding,DTXSID0025234,Eosin,mixed,C.I. Solvent Red 43,DTXSID3044590,1.0,0.6,0.7501763224601745
+esr1_binding,DTXSID3044590,C.I. Solvent Red 43,pollutant_only,Eosin,DTXSID0025234,1.0,0.6,0.7501763224601745
+esr1_binding,DTXSID3044590,C.I. Solvent Red 43,generic_bioactive,CHEMBL25228,CHEMBL25228,0.3396226465702057,1.0,0.7501763224601745
+esr1_binding,DTXSID3044590,C.I. Solvent Red 43,mixed,Eosin,DTXSID0025234,1.0,0.6,0.7501763224601745
+esr1_binding,DTXSID30396867,"1H,1H,8H,8H-Perfluorooctane-1,8-diol",pollutant_only,"1H,1H,10H,10H-Perfluorodecane-1,10-diol",DTXSID50369896,1.0,0.6,0.7453660686810812
+esr1_binding,DTXSID30396867,"1H,1H,8H,8H-Perfluorooctane-1,8-diol",generic_bioactive,CHEMBL382598,CHEMBL382598,0.1818181872367859,1.0,0.7453660686810812
+esr1_binding,DTXSID30396867,"1H,1H,8H,8H-Perfluorooctane-1,8-diol",mixed,"1H,1H,10H,10H-Perfluorodecane-1,10-diol",DTXSID50369896,1.0,0.6,0.7453660686810812
+esr1_binding,DTXSID8021301,Tamoxifen citrate,pollutant_only,Tamoxifen,DTXSID1034187,1.0,1.0,0.7351930061976115
+esr1_binding,DTXSID8021301,Tamoxifen citrate,generic_bioactive,TAMOXIFEN,CHEMBL83,1.0,1.0,0.7351930061976115
+esr1_binding,DTXSID8021301,Tamoxifen citrate,mixed,TAMOXIFEN,CHEMBL83,1.0,1.0,0.7351930061976115
+esr1_binding,DTXSID1034187,Tamoxifen,pollutant_only,Tamoxifen citrate,DTXSID8021301,1.0,1.0,0.7351930061976115
+esr1_binding,DTXSID1034187,Tamoxifen,generic_bioactive,TAMOXIFEN,CHEMBL83,1.0,1.0,0.7351930061976115
+esr1_binding,DTXSID1034187,Tamoxifen,mixed,TAMOXIFEN,CHEMBL83,1.0,1.0,0.7351930061976115

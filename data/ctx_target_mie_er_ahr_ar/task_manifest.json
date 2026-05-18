@@ -1,0 +1,52 @@
+{
+  "base_target_tasks": [
+    "er_alpha_active",
+    "ahr_active",
+    "ar_active"
+  ],
+  "target_mechanism_tasks": {
+    "esr1": [
+      "esr1_binding",
+      "esr1_agonism",
+      "esr1_antagonism",
+      "esr1_reporter"
+    ],
+    "ahr": [
+      "ahr_binding",
+      "ahr_agonism",
+      "ahr_reporter"
+    ],
+    "ar": [
+      "ar_binding",
+      "ar_agonism",
+      "ar_antagonism",
+      "ar_reporter"
+    ]
+  },
+  "global_mechanism_tasks": {
+    "binding": "mie_receptor_binding",
+    "agonism": "mie_receptor_agonism",
+    "antagonism": "mie_receptor_antagonism",
+    "reporter": "reporter_response"
+  },
+  "all_tasks": [
+    "er_alpha_active",
+    "ahr_active",
+    "ar_active",
+    "esr1_binding",
+    "esr1_agonism",
+    "esr1_antagonism",
+    "esr1_reporter",
+    "ahr_binding",
+    "ahr_agonism",
+    "ahr_reporter",
+    "ar_binding",
+    "ar_agonism",
+    "ar_antagonism",
+    "ar_reporter",
+    "mie_receptor_binding",
+    "mie_receptor_agonism",
+    "mie_receptor_antagonism",
+    "reporter_response"
+  ]
+}

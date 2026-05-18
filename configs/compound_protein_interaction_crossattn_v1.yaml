@@ -1,0 +1,33 @@
+study:
+  id: compound_protein_interaction_crossattn_v1
+  title: Cross-attention compound-protein interaction model for environmental target annotation
+
+inputs:
+  pair_dataset_dir: data/compound_protein_interaction_v1_phase1
+
+tasks:
+  core:
+    - esr1_binding
+    - ar_binding
+
+training:
+  split:
+    method: repeated_group_shuffle
+    group_column: murcko_scaffold
+    n_splits: 5
+    test_size: 0.2
+    seed: 17
+  epochs: 30
+  batch_size: 256
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  patience: 5
+  random_seed: 17
+
+model:
+  hidden_dim: 64
+  num_heads: 4
+  dropout: 0.15
+
+outputs:
+  results_dir: outputs/compound_protein_interaction_crossattn_v1

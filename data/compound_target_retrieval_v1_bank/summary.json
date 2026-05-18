@@ -1,0 +1,35 @@
+{
+  "study_id": "compound_target_retrieval_v1",
+  "n_total_bank_rows": 17125,
+  "n_pollutant_rows": 8836,
+  "n_generic_bioactive_rows": 7789,
+  "n_natural_product_rows": 500,
+  "n_failed_source_rows": 0,
+  "tasks": {
+    "esr1_binding": {
+      "labeled": 6474,
+      "positives": 4191,
+      "negatives": 2283
+    },
+    "ar_binding": {
+      "labeled": 5280,
+      "positives": 3603,
+      "negatives": 1677
+    },
+    "reporter_response": {
+      "labeled": 7202,
+      "positives": 4802,
+      "negatives": 2400
+    },
+    "esr1_reporter": {
+      "labeled": 4892,
+      "positives": 2229,
+      "negatives": 2663
+    },
+    "mie_receptor_binding": {
+      "labeled": 10034,
+      "positives": 7744,
+      "negatives": 2290
+    }
+  }
+}

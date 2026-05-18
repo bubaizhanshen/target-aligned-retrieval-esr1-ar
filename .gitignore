@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.swo
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/

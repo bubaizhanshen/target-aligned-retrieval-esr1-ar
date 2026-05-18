@@ -1,0 +1,35 @@
+inputs:
+  pairs_path: /public/home/zhqi_hjxy/HCML/data/compound_protein_interaction_v1_phase1/pair_features.csv
+  target_panel_path: /public/home/zhqi_hjxy/HCML/data/compound_protein_interaction_v1/target_panel.csv
+  espf_dir: /public/home/zhqi_hjxy/HCML/tmp/MolTrans-master/ESPF
+tasks:
+  - esr1_binding
+  - ar_binding
+split:
+  group_column: murcko_scaffold
+  n_splits: 5
+  test_size: 0.2
+  val_size: 0.15
+  seed: 17
+train:
+  batch_size: 32
+  epochs: 20
+  patience: 4
+  learning_rate: 0.0001
+  weight_decay: 0.0
+model:
+  input_dim_drug: 23532
+  input_dim_target: 16693
+  max_drug_seq: 50
+  max_protein_seq: 545
+  emb_size: 384
+  dropout_rate: 0.1
+  n_layer: 2
+  intermediate_size: 1536
+  num_attention_heads: 12
+  attention_probs_dropout_prob: 0.1
+  hidden_dropout_prob: 0.1
+runtime:
+  device: cuda
+outputs:
+  out_dir: /public/home/zhqi_hjxy/HCML/outputs/compound_protein_interaction_moltrans_v1

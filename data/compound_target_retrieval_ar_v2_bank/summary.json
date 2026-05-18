@@ -1,0 +1,15 @@
+{
+  "n_total_rows": 17125,
+  "memory_counts": {
+    "natural_product": 500,
+    "ar_support_v2": 4855,
+    "ar_np_pollutant_v2": 1769
+  },
+  "ar_binding_counts": {
+    "pollutant_labeled": 1954,
+    "pollutant_positive_support": 468,
+    "pollutant_negative_strong": 1061,
+    "generic_direct": 3086,
+    "natural_product_direct": 240
+  }
+}

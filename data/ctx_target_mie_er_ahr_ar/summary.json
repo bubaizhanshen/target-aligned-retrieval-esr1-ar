@@ -1,0 +1,134 @@
+{
+  "n_compounds": 9416,
+  "task_counts": {
+    "er_alpha_active": {
+      "labeled": 9406,
+      "positive": 3244
+    },
+    "ahr_active": {
+      "labeled": 9095,
+      "positive": 1226
+    },
+    "ar_active": {
+      "labeled": 9408,
+      "positive": 2696
+    },
+    "esr1_binding": {
+      "labeled": 2225,
+      "positive": 333
+    },
+    "esr1_agonism": {
+      "labeled": 8305,
+      "positive": 1323
+    },
+    "esr1_antagonism": {
+      "labeled": 8947,
+      "positive": 1594
+    },
+    "esr1_reporter": {
+      "labeled": 4079,
+      "positive": 1239
+    },
+    "ahr_binding": {
+      "labeled": 0,
+      "positive": 0
+    },
+    "ahr_agonism": {
+      "labeled": 8305,
+      "positive": 702
+    },
+    "ahr_reporter": {
+      "labeled": 4060,
+      "positive": 723
+    },
+    "ar_binding": {
+      "labeled": 2015,
+      "positive": 481
+    },
+    "ar_agonism": {
+      "labeled": 8305,
+      "positive": 727
+    },
+    "ar_antagonism": {
+      "labeled": 8947,
+      "positive": 2176
+    },
+    "ar_reporter": {
+      "labeled": 4063,
+      "positive": 172
+    },
+    "mie_receptor_binding": {
+      "labeled": 2363,
+      "positive": 658
+    },
+    "mie_receptor_agonism": {
+      "labeled": 8305,
+      "positive": 2130
+    },
+    "mie_receptor_antagonism": {
+      "labeled": 8947,
+      "positive": 2436
+    },
+    "reporter_response": {
+      "labeled": 4079,
+      "positive": 1681
+    }
+  },
+  "mechanism_endpoint_counts": [
+    {
+      "target_prefix": "ahr",
+      "mechanism": "agonism",
+      "n_endpoints": 1
+    },
+    {
+      "target_prefix": "ahr",
+      "mechanism": "binding",
+      "n_endpoints": 1
+    },
+    {
+      "target_prefix": "ahr",
+      "mechanism": "reporter",
+      "n_endpoints": 1
+    },
+    {
+      "target_prefix": "ar",
+      "mechanism": "agonism",
+      "n_endpoints": 2
+    },
+    {
+      "target_prefix": "ar",
+      "mechanism": "antagonism",
+      "n_endpoints": 3
+    },
+    {
+      "target_prefix": "ar",
+      "mechanism": "binding",
+      "n_endpoints": 5
+    },
+    {
+      "target_prefix": "ar",
+      "mechanism": "reporter",
+      "n_endpoints": 5
+    },
+    {
+      "target_prefix": "esr1",
+      "mechanism": "agonism",
+      "n_endpoints": 2
+    },
+    {
+      "target_prefix": "esr1",
+      "mechanism": "antagonism",
+      "n_endpoints": 3
+    },
+    {
+      "target_prefix": "esr1",
+      "mechanism": "binding",
+      "n_endpoints": 5
+    },
+    {
+      "target_prefix": "esr1",
+      "mechanism": "reporter",
+      "n_endpoints": 9
+    }
+  ]
+}

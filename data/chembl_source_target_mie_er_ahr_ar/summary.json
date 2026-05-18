@@ -1,0 +1,115 @@
+{
+  "n_compounds": 8302,
+  "n_natural_products": 500,
+  "n_generic_bioactives": 7802,
+  "task_counts": {
+    "er_alpha_active": {
+      "labeled": 4506,
+      "positive": 4037,
+      "np_labeled": 256,
+      "generic_labeled": 4250
+    },
+    "ahr_active": {
+      "labeled": 238,
+      "positive": 212,
+      "np_labeled": 23,
+      "generic_labeled": 215
+    },
+    "ar_active": {
+      "labeled": 3705,
+      "positive": 3469,
+      "np_labeled": 292,
+      "generic_labeled": 3413
+    },
+    "esr1_binding": {
+      "labeled": 4321,
+      "positive": 3875,
+      "np_labeled": 234,
+      "generic_labeled": 4087
+    },
+    "esr1_agonism": {
+      "labeled": 1549,
+      "positive": 1498,
+      "np_labeled": 74,
+      "generic_labeled": 1475
+    },
+    "esr1_antagonism": {
+      "labeled": 1040,
+      "positive": 1015,
+      "np_labeled": 39,
+      "generic_labeled": 1001
+    },
+    "esr1_reporter": {
+      "labeled": 1153,
+      "positive": 1108,
+      "np_labeled": 64,
+      "generic_labeled": 1089
+    },
+    "ahr_binding": {
+      "labeled": 226,
+      "positive": 205,
+      "np_labeled": 21,
+      "generic_labeled": 205
+    },
+    "ahr_agonism": {
+      "labeled": 161,
+      "positive": 152,
+      "np_labeled": 17,
+      "generic_labeled": 144
+    },
+    "ahr_reporter": {
+      "labeled": 94,
+      "positive": 83,
+      "np_labeled": 6,
+      "generic_labeled": 88
+    },
+    "ar_binding": {
+      "labeled": 3327,
+      "positive": 3136,
+      "np_labeled": 240,
+      "generic_labeled": 3087
+    },
+    "ar_agonism": {
+      "labeled": 2127,
+      "positive": 2015,
+      "np_labeled": 112,
+      "generic_labeled": 2015
+    },
+    "ar_antagonism": {
+      "labeled": 1624,
+      "positive": 1519,
+      "np_labeled": 75,
+      "generic_labeled": 1549
+    },
+    "ar_reporter": {
+      "labeled": 2239,
+      "positive": 2119,
+      "np_labeled": 107,
+      "generic_labeled": 2132
+    },
+    "mie_receptor_binding": {
+      "labeled": 7748,
+      "positive": 7112,
+      "np_labeled": 439,
+      "generic_labeled": 7309
+    },
+    "mie_receptor_agonism": {
+      "labeled": 3806,
+      "positive": 3641,
+      "np_labeled": 190,
+      "generic_labeled": 3616
+    },
+    "mie_receptor_antagonism": {
+      "labeled": 2644,
+      "positive": 2519,
+      "np_labeled": 108,
+      "generic_labeled": 2536
+    },
+    "reporter_response": {
+      "labeled": 3463,
+      "positive": 3293,
+      "np_labeled": 168,
+      "generic_labeled": 3295
+    }
+  }
+}

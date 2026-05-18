@@ -1,0 +1,65 @@
+{
+  "all_tasks": [
+    "er_alpha_active",
+    "ahr_active",
+    "ar_active",
+    "esr1_binding",
+    "esr1_agonism",
+    "esr1_antagonism",
+    "esr1_reporter",
+    "ahr_binding",
+    "ahr_agonism",
+    "ahr_reporter",
+    "ar_binding",
+    "ar_agonism",
+    "ar_antagonism",
+    "ar_reporter",
+    "mie_receptor_binding",
+    "mie_receptor_agonism",
+    "mie_receptor_antagonism",
+    "reporter_response"
+  ],
+  "targets": [
+    {
+      "axis": "ERalpha",
+      "chembl_axis": "er_alpha",
+      "target_prefix": "esr1",
+      "base_label_column": "er_alpha_active",
+      "mechanisms": [
+        "binding",
+        "agonism",
+        "antagonism",
+        "reporter"
+      ]
+    },
+    {
+      "axis": "AhR",
+      "chembl_axis": "ahr",
+      "target_prefix": "ahr",
+      "base_label_column": "ahr_active",
+      "mechanisms": [
+        "binding",
+        "agonism",
+        "reporter"
+      ]
+    },
+    {
+      "axis": "AR",
+      "chembl_axis": "ar",
+      "target_prefix": "ar",
+      "base_label_column": "ar_active",
+      "mechanisms": [
+        "binding",
+        "agonism",
+        "antagonism",
+        "reporter"
+      ]
+    }
+  ],
+  "global_mechanism_tasks": {
+    "binding": "mie_receptor_binding",
+    "agonism": "mie_receptor_agonism",
+    "antagonism": "mie_receptor_antagonism",
+    "reporter": "reporter_response"
+  }
+}

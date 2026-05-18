@@ -1,0 +1,23 @@
+inputs:
+  pairs_path: /public/home/zhqi_hjxy/HCML/data/compound_protein_interaction_v1_phase1/pair_features.csv
+  target_panel_path: /public/home/zhqi_hjxy/HCML/data/compound_protein_interaction_v1/target_panel.csv
+  drugban_repo: /public/home/zhqi_hjxy/HCML/tmp/DrugBAN-main
+tasks:
+  - esr1_binding
+  - ar_binding
+split:
+  group_column: murcko_scaffold
+  n_splits: 5
+  test_size: 0.2
+  val_size: 0.15
+  seed: 17
+train:
+  batch_size: 64
+  epochs: 15
+  patience: 3
+  learning_rate: 0.00005
+  seed: 2048
+runtime:
+  device: cuda
+outputs:
+  out_dir: /public/home/zhqi_hjxy/HCML/outputs/compound_protein_interaction_drugban_v2

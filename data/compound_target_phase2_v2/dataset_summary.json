@@ -1,0 +1,49 @@
+{
+  "study_id": "compound_target_phase2_v2",
+  "n_input_labels": 9416,
+  "n_compounds": 8836,
+  "n_pollutants": 8836,
+  "n_natural_products": 0,
+  "domain_counts": {
+    "pollutant": 8836
+  },
+  "n_missing_smiles": 570,
+  "n_excluded_for_structure": 10,
+  "n_total_excluded": 580,
+  "task_prevalence": {
+    "esr1_binding": {
+      "labeled": 2164,
+      "positives": 327,
+      "negatives": 1837
+    },
+    "ar_binding": {
+      "labeled": 1954,
+      "positives": 468,
+      "negatives": 1486
+    },
+    "reporter_response": {
+      "labeled": 3740,
+      "positives": 1510,
+      "negatives": 2230
+    },
+    "esr1_reporter": {
+      "labeled": 3740,
+      "positives": 1122,
+      "negatives": 2618
+    },
+    "mie_receptor_binding": {
+      "labeled": 2298,
+      "positives": 644,
+      "negatives": 1654
+    },
+    "ahr_reporter": {
+      "labeled": 3722,
+      "positives": 602,
+      "negatives": 3120
+    }
+  },
+  "feature_spec": {
+    "morgan_radius": 2,
+    "morgan_bits": 512
+  }
+}

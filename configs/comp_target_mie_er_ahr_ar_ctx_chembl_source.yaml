@@ -1,0 +1,72 @@
+study:
+  id: comp_target_mie_er_ahr_ar_ctx_chembl_source
+  title: CTX pollutant plus mixed ChEMBL source-domain target/MIE dataset
+
+inputs:
+  ctx_ingest_dir: data/ctx_chembl_source_target_mie_er_ahr_ar
+
+features:
+  morgan_radius: 2
+  morgan_bits: 512
+  descriptor_columns:
+    - mol_wt
+    - logp
+    - tpsa
+    - hbd
+    - hba
+    - ring_count
+    - aromatic_rings
+    - fraction_csp3
+
+similarity_prior:
+  enabled: false
+  top_k: 3
+
+labels:
+  tasks:
+    - er_alpha_active
+    - ahr_active
+    - ar_active
+    - esr1_binding
+    - esr1_agonism
+    - esr1_antagonism
+    - esr1_reporter
+    - ahr_binding
+    - ahr_agonism
+    - ahr_reporter
+    - ar_binding
+    - ar_agonism
+    - ar_antagonism
+    - ar_reporter
+    - mie_receptor_binding
+    - mie_receptor_agonism
+    - mie_receptor_antagonism
+    - reporter_response
+
+training:
+  evaluation_domain: pollutant
+  models:
+    - logistic_regression
+    - random_forest
+  pollutants_sample_weight: 1.0
+  np_sample_weight: 1.0
+  splits:
+    random_cv:
+      enabled: true
+      n_splits: 5
+      n_repeats: 1
+      seed: 17
+    family_holdout:
+      enabled: false
+      group_column: chemical_class
+    scaffold_holdout:
+      enabled: true
+      method: repeated_group_shuffle
+      group_column: murcko_scaffold
+      n_splits: 5
+      test_size: 0.2
+      seed: 17
+
+outputs:
+  dataset_dir: data/comp_target_mie_er_ahr_ar_ctx_chembl_source
+  results_dir: outputs/comp_target_mie_er_ahr_ar_ctx_chembl_source

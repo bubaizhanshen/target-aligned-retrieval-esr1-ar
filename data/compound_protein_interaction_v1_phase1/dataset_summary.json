@@ -1,0 +1,25 @@
+{
+  "study_id": "compound_protein_interaction_v1",
+  "phase": "phase1",
+  "n_pairs": 4118,
+  "n_unique_compounds": 2298,
+  "n_targets": 2,
+  "compound_feature_dim": 520,
+  "protein_feature_dim": 151,
+  "tasks": {
+    "ar_binding": {
+      "pairs": 1954,
+      "positives": 468,
+      "negatives": 1486,
+      "unique_compounds": 1954,
+      "unique_scaffolds": 608
+    },
+    "esr1_binding": {
+      "pairs": 2164,
+      "positives": 327,
+      "negatives": 1837,
+      "unique_compounds": 2164,
+      "unique_scaffolds": 668
+    }
+  }
+}

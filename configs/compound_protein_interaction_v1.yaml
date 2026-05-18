@@ -1,0 +1,78 @@
+study:
+  id: compound_protein_interaction_v1
+  title: Target-aware compound-protein interaction modeling for environmental suspect annotation
+
+inputs:
+  compound_dataset_dir: data/compound_target_phase2_v2
+  target_panel_csv: data/compound_protein_interaction_v1/target_panel.csv
+  pair_dataset_dir: data/compound_protein_interaction_v1_phase1
+
+tasks:
+  core:
+    - esr1_binding
+    - ar_binding
+  expansion:
+    - ahr_binding
+    - pparg_binding
+
+compound_encoder:
+  fingerprints:
+    radius: 2
+    bits: 512
+  descriptor_columns:
+    - mol_wt
+    - logp
+    - tpsa
+    - hbd
+    - hba
+    - ring_count
+    - aromatic_rings
+    - fraction_csp3
+
+protein_encoder:
+  mode: sequence_kmer_mlp
+  kmer_sizes:
+    - 1
+    - 2
+  max_vocab_features: 2048
+  hash_bins: 128
+
+interaction_model:
+  baseline_modes:
+    - rf_reference_single_task
+    - compound_only
+    - concat_mlp
+    - bilinear
+  proposed_modes:
+    - target_aware_gating
+    - cross_interaction_mlp
+
+training:
+  splits:
+    scaffold_holdout:
+      enabled: true
+      method: repeated_group_shuffle
+      group_column: murcko_scaffold
+      n_splits: 5
+      test_size: 0.2
+      seed: 17
+  epochs: 50
+  batch_size: 128
+  learning_rate: 0.001
+  patience: 6
+  validation_fraction: 0.15
+  random_seed: 17
+
+evaluation:
+  primary_metrics:
+    - pr_auc
+    - precision_at_5pct
+    - precision_at_10pct
+    - enrichment_factor_5pct
+  secondary_metrics:
+    - roc_auc
+    - balanced_accuracy
+    - f1
+
+outputs:
+  results_dir: outputs/compound_protein_interaction_v1

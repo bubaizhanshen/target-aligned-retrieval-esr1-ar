@@ -1,0 +1,42 @@
+inputs:
+  pair_dataset_dir: data/compound_protein_interaction_v1_phase1
+  target_panel_path: data/compound_protein_interaction_v1/target_panel.csv
+  retrieval_bank_dir: data/compound_target_retrieval_ar_v2_bank
+
+tasks:
+  core:
+    - ar_binding
+
+retrieval:
+  memories:
+    - pollutant_only
+    - natural_product
+    - ar_support_v2
+  top_k: 15
+  control_mode: label_shuffled
+
+protein_encoder:
+  chunk_size: 8
+  max_chunks: 128
+  residue_embed_dim: 16
+
+model:
+  hidden_dim: 64
+  num_heads: 4
+  dropout: 0.15
+
+training:
+  random_seed: 17
+  batch_size: 256
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  epochs: 30
+  patience: 5
+  split:
+    group_column: murcko_scaffold
+    n_splits: 5
+    test_size: 0.2
+    seed: 17
+
+outputs:
+  results_dir: outputs/compound_protein_interaction_retrievalhybrid_ar_v2_support_label_shuffled

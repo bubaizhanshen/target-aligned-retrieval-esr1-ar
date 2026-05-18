@@ -1,0 +1,9 @@
+task,model,pr_auc_mean
+ar_binding,hybrid,0.6460135586875915
+ar_binding,rf,0.5151703154576428
+ar_binding,drugban,0.4456555154076592
+ar_binding,moltrans,0.3561711197603175
+esr1_binding,hybrid,0.4916891401882656
+esr1_binding,rf,0.4005432419823661
+esr1_binding,drugban,0.3423671456862924
+esr1_binding,moltrans,0.295772873507709

@@ -1,0 +1,9 @@
+task,compound_id,name,delta_score,hybrid_score,rf_score,murcko_scaffold,top_ref_name_pollutant_only,top_ref_similarity_pollutant_only,mean_ref_label_pollutant_only,top_ref_name_generic_bioactive,top_ref_similarity_generic_bioactive,mean_ref_label_generic_bioactive,top_ref_name_mixed,top_ref_similarity_mixed,mean_ref_label_mixed,top_ref_name_ar_support_v2,top_ref_similarity_ar_support_v2,mean_ref_label_ar_support_v2
+ar_binding,DTXSID2022678,Bicalutamide,0.8489112615585328,0.9989112615585328,0.15,O=C(CCS(=O)(=O)c1ccccc1)Nc1ccccc1,Hydroxyflutamide,0.4310344755649566,0.8,,,,,,,(R)-BICALUTAMIDE,1.0,1.0
+ar_binding,DTXSID2035013,Zinc chloride,0.7946849822998048,0.9446849822998048,0.15,NO_SCAFFOLD,,,,,,,,,,,,
+ar_binding,DTXSID1047312,GSK232420A,0.7111612558364868,0.9611612558364868,0.25,c1ccccc1,,,,,,,,,,,,
+ar_binding,DTXSID1044487,Methyltrioctylammonium chloride,0.6755526224772136,0.7838859558105469,0.1083333333333333,NO_SCAFFOLD,,,,,,,,,,,,
+esr1_binding,DTXSID2036588,"Glycols, polyethylene, mono(p-nonylphenyl) ether",0.7912578662236532,0.9079245328903198,0.1166666666666666,c1ccccc1,4-(Hexyloxy)phenol,0.5588235259056091,1.0,CHEMBL46937,0.359375,1.0,4-(Hexyloxy)phenol,0.5588235259056091,1.0,,,
+esr1_binding,DTXSID00380798,"1H,1H,11H,11H-Perfluorotetraethylene glycol",0.7897487839063009,0.8564154505729675,0.0666666666666666,NO_SCAFFOLD,"1H,1H-Perfluoro-3,6,9-trioxadecan-1-ol",0.8888888955116272,0.6,CHEMBL128227,0.159090906381607,1.0,"1H,1H-Perfluoro-3,6,9-trioxadecan-1-ol",0.8888888955116272,0.6,,,
+esr1_binding,DTXSID4020375,DDT,0.7793091257413229,0.8709757924079895,0.0916666666666666,c1ccc(Cc2ccccc2)cc1,"o,p'-DDT",0.6538461446762085,0.6,CHEMBL196585,0.6086956262588501,1.0,"o,p'-DDT",0.6538461446762085,0.8,,,
+esr1_binding,DTXSID5040708,4-Hexylaniline,0.7783656618718247,0.8670387864112854,0.0886731245394608,c1ccccc1,4-Pentylaniline,0.9545454382896424,0.4,CHEMBL3422052,0.3170731663703918,1.0,4-Pentylaniline,0.9545454382896424,0.4,,,
