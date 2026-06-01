@@ -110,3 +110,11 @@ Representative entry points:
 - The frozen binding-first panel should be read from:
   - `outputs/compound_protein_interaction_binding_first_panel_v1/frozen_binding_first_panel.csv`
   rather than inferred from broader shortlist tables.
+
+## Maintenance and Reuse
+
+- Use GitHub issues for reproducibility failures, schema problems, dependency
+  issues, or unclear data provenance.
+- Use GitHub discussions for reuse, citation, and interpretation questions.
+- See `CONTRIBUTING.md` before opening pull requests.
+- See `SECURITY.md` for vulnerability or credential-disclosure reports.

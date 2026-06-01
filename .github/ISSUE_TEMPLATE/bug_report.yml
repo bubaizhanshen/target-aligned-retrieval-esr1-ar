@@ -1,0 +1,44 @@
+name: Bug report
+description: Report a reproducibility, code, or data issue.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What failed or looked incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Include the command, working directory, and relevant input files.
+      placeholder: |
+        1. Create environment with ...
+        2. Run ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Python version, OS, package versions, and any relevant hardware notes.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What output or behavior did you expect?
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or traceback
+      render: text
+    validations:
+      required: false

@@ -1,0 +1,36 @@
+name: Reproducibility report
+description: Share results from rerunning part of the workflow.
+title: "[Reproduction]: "
+labels: ["reproducibility"]
+body:
+  - type: dropdown
+    id: status
+    attributes:
+      label: Result
+      options:
+        - Reproduced expected output
+        - Reproduced with differences
+        - Could not reproduce
+    validations:
+      required: true
+  - type: input
+    id: command
+    attributes:
+      label: Command or script
+      placeholder: python scripts/run_compound_protein_interaction_baselines.py ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Python version, dependency versions, OS, and runtime notes.
+    validations:
+      required: true
+  - type: textarea
+    id: outputs
+    attributes:
+      label: Output comparison
+      description: Summarize output files, checksums, metrics, or differences.
+    validations:
+      required: true
